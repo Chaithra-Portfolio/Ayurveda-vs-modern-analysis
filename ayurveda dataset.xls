@@ -1,0 +1,1169 @@
+Gender,Age,Preferred Medicine,Urban/Rural,Alcohol Consumption,Physical Activity,Work Stress,Smoking Status,Diet Type
+Female,18,Modern Medicine,Rural,No,High,Low,Non-Smoker,Non-Vegetarian
+Female,18,Modern Medicine,Urban,Yes,Moderate,High,Smoker,Vegetarian
+Male,18,Modern Medicine,Rural,Yes,Moderate,Low,Smoker,Non-Vegetarian
+Male,18,Modern Medicine,Urban,No,Moderate,Low,Smoker,Vegetarian
+Female,18,Modern Medicine,Urban,No,Moderate,High,Non-Smoker,Non-Vegetarian
+Male,18,Modern Medicine,Rural,Yes,Low,Moderate,Non-Smoker,Vegetarian
+Male,18,Ayurveda,Rural,Yes,Moderate,Moderate,Smoker,Non-Vegetarian
+Male,18,Ayurveda,Urban,No,High,Low,Smoker,Non-Vegetarian
+Male,18,Ayurveda,Rural,No,Low,High,Smoker,Non-Vegetarian
+Female,18,Modern Medicine,Rural,Yes,High,High,Non-Smoker,Vegetarian
+Female,18,Ayurveda,Urban,Yes,Low,Low,Non-Smoker,Non-Vegetarian
+Male,18,Ayurveda,Rural,Yes,Moderate,High,Non-Smoker,Non-Vegetarian
+Female,18,Modern Medicine,Rural,Yes,High,Low,Smoker,Non-Vegetarian
+Male,18,Ayurveda,Rural,Yes,Low,Moderate,Smoker,Vegetarian
+Female,18,Ayurveda,Urban,Yes,High,High,Non-Smoker,Non-Vegetarian
+Female,18,Ayurveda,Urban,No,Low,Moderate,Smoker,Vegetarian
+Male,18,Ayurveda,Rural,No,Moderate,Moderate,Non-Smoker,Vegetarian
+Male,18,Ayurveda,Rural,Yes,Low,High,Non-Smoker,Non-Vegetarian
+Male,18,Ayurveda,Urban,No,Moderate,Moderate,Non-Smoker,Non-Vegetarian
+Female,18,Ayurveda,Urban,No,High,Moderate,Non-Smoker,Vegetarian
+Male,18,Modern Medicine,Rural,No,Low,Moderate,Non-Smoker,Non-Vegetarian
+Female,18,Ayurveda,Urban,Yes,High,Low,Smoker,Vegetarian
+Female,18,Modern Medicine,Urban,Yes,Moderate,Low,Non-Smoker,Vegetarian
+Male,18,Ayurveda,Urban,No,Low,Moderate,Non-Smoker,Non-Vegetarian
+Male,18,Ayurveda,Urban,No,Moderate,High,Non-Smoker,Non-Vegetarian
+Female,18,Modern Medicine,Rural,Yes,Low,Moderate,Non-Smoker,Non-Vegetarian
+Male,18,Ayurveda,Urban,Yes,Moderate,Moderate,Non-Smoker,Vegetarian
+Female,18,Modern Medicine,Urban,Yes,High,Moderate,Smoker,Vegetarian
+Female,18,Ayurveda,Urban,No,Low,Low,Non-Smoker,Vegetarian
+Female,18,Ayurveda,Urban,No,High,High,Non-Smoker,Non-Vegetarian
+Female,18,Ayurveda,Rural,Yes,High,High,Non-Smoker,Vegetarian
+Female,18,Ayurveda,Rural,No,Moderate,Moderate,Smoker,Vegetarian
+Male,18,Modern Medicine,Urban,Yes,Low,Moderate,Non-Smoker,Vegetarian
+Male,18,Modern Medicine,Urban,No,High,High,Non-Smoker,Non-Vegetarian
+Female,18,Modern Medicine,Rural,Yes,Moderate,Low,Non-Smoker,Non-Vegetarian
+Male,19,Ayurveda,Urban,Yes,Low,Low,Non-Smoker,Non-Vegetarian
+Male,19,Modern Medicine,Urban,Yes,Low,Moderate,Non-Smoker,Vegetarian
+Male,19,Ayurveda,Urban,No,Low,Low,Smoker,Vegetarian
+Male,19,Ayurveda,Rural,No,High,Moderate,Smoker,Vegetarian
+Female,19,Ayurveda,Rural,Yes,Moderate,High,Non-Smoker,Non-Vegetarian
+Male,19,Ayurveda,Rural,No,Moderate,High,Non-Smoker,Vegetarian
+Female,19,Ayurveda,Rural,No,High,Moderate,Non-Smoker,Vegetarian
+Female,19,Ayurveda,Rural,No,Moderate,Low,Smoker,Non-Vegetarian
+Male,19,Modern Medicine,Urban,Yes,Low,Moderate,Non-Smoker,Vegetarian
+Male,19,Modern Medicine,Urban,Yes,High,Low,Smoker,Non-Vegetarian
+Female,19,Modern Medicine,Rural,Yes,High,High,Smoker,Non-Vegetarian
+Female,19,Ayurveda,Urban,No,High,Low,Non-Smoker,Non-Vegetarian
+Male,19,Ayurveda,Rural,Yes,Moderate,Low,Smoker,Vegetarian
+Male,19,Modern Medicine,Rural,Yes,Low,High,Non-Smoker,Non-Vegetarian
+Female,19,Modern Medicine,Rural,No,Moderate,Low,Smoker,Vegetarian
+Female,19,Ayurveda,Urban,Yes,Moderate,Low,Smoker,Vegetarian
+Female,19,Ayurveda,Rural,No,High,High,Non-Smoker,Non-Vegetarian
+Male,19,Ayurveda,Rural,Yes,High,Low,Non-Smoker,Non-Vegetarian
+Female,19,Modern Medicine,Urban,No,Moderate,Moderate,Smoker,Non-Vegetarian
+Male,19,Ayurveda,Rural,Yes,Moderate,High,Non-Smoker,Non-Vegetarian
+Female,19,Ayurveda,Rural,No,High,Low,Non-Smoker,Non-Vegetarian
+Female,19,Modern Medicine,Urban,Yes,Moderate,Low,Smoker,Vegetarian
+Male,19,Ayurveda,Urban,Yes,Low,Moderate,Non-Smoker,Vegetarian
+Male,19,Ayurveda,Urban,No,High,Moderate,Non-Smoker,Non-Vegetarian
+Male,19,Ayurveda,Rural,Yes,High,High,Non-Smoker,Vegetarian
+Female,19,Modern Medicine,Rural,No,High,Moderate,Non-Smoker,Non-Vegetarian
+Female,19,Ayurveda,Urban,No,High,High,Smoker,Non-Vegetarian
+Female,19,Ayurveda,Rural,Yes,Low,Moderate,Smoker,Non-Vegetarian
+Male,19,Ayurveda,Urban,Yes,High,Low,Smoker,Non-Vegetarian
+Female,19,Ayurveda,Rural,No,Low,Moderate,Smoker,Vegetarian
+Male,19,Modern Medicine,Urban,Yes,Moderate,High,Smoker,Non-Vegetarian
+Male,19,Modern Medicine,Rural,No,Moderate,Low,Non-Smoker,Vegetarian
+Male,19,Modern Medicine,Urban,No,Low,Moderate,Non-Smoker,Vegetarian
+Male,19,Ayurveda,Rural,Yes,Moderate,Moderate,Smoker,Vegetarian
+Female,19,Modern Medicine,Urban,No,Moderate,Low,Non-Smoker,Vegetarian
+Female,19,Ayurveda,Urban,Yes,Low,Moderate,Non-Smoker,Vegetarian
+Male,20,Ayurveda,Urban,Yes,Low,High,Non-Smoker,Vegetarian
+Male,20,Modern Medicine,Rural,No,Moderate,Low,Non-Smoker,Non-Vegetarian
+Male,20,Ayurveda,Rural,No,Low,Moderate,Non-Smoker,Vegetarian
+Female,20,Modern Medicine,Urban,No,High,Low,Smoker,Vegetarian
+Female,20,Modern Medicine,Urban,No,Moderate,High,Smoker,Vegetarian
+Male,20,Ayurveda,Rural,No,Low,High,Smoker,Non-Vegetarian
+Female,20,Ayurveda,Urban,Yes,Low,Low,Non-Smoker,Non-Vegetarian
+Male,20,Modern Medicine,Urban,Yes,Low,Low,Smoker,Vegetarian
+Female,20,Modern Medicine,Urban,No,Low,Low,Smoker,Vegetarian
+Female,20,Ayurveda,Rural,Yes,High,High,Smoker,Non-Vegetarian
+Female,20,Ayurveda,Rural,No,Moderate,High,Smoker,Vegetarian
+Male,20,Modern Medicine,Urban,No,Moderate,High,Smoker,Non-Vegetarian
+Male,20,Ayurveda,Rural,No,Moderate,Moderate,Smoker,Non-Vegetarian
+Male,20,Modern Medicine,Urban,No,Moderate,Low,Smoker,Non-Vegetarian
+Female,20,Modern Medicine,Rural,No,Low,High,Non-Smoker,Vegetarian
+Female,20,Modern Medicine,Rural,No,High,Low,Smoker,Non-Vegetarian
+Female,20,Modern Medicine,Urban,Yes,Moderate,Moderate,Non-Smoker,Non-Vegetarian
+Male,20,Ayurveda,Urban,Yes,Low,High,Non-Smoker,Non-Vegetarian
+Female,20,Ayurveda,Rural,Yes,Low,High,Smoker,Vegetarian
+Male,20,Modern Medicine,Rural,Yes,Low,High,Smoker,Non-Vegetarian
+Male,20,Ayurveda,Rural,Yes,High,Moderate,Smoker,Vegetarian
+Female,20,Modern Medicine,Rural,No,Moderate,Low,Non-Smoker,Vegetarian
+Female,20,Modern Medicine,Rural,No,High,Low,Smoker,Non-Vegetarian
+Male,20,Modern Medicine,Rural,No,High,Low,Smoker,Vegetarian
+Male,20,Modern Medicine,Rural,No,High,Moderate,Non-Smoker,Vegetarian
+Male,20,Modern Medicine,Urban,No,Low,High,Non-Smoker,Vegetarian
+Female,20,Ayurveda,Urban,Yes,Low,Low,Smoker,Non-Vegetarian
+Male,20,Ayurveda,Urban,No,Low,Low,Smoker,Vegetarian
+Male,20,Modern Medicine,Rural,No,Moderate,High,Non-Smoker,Vegetarian
+Male,20,Modern Medicine,Rural,Yes,Moderate,Moderate,Smoker,Non-Vegetarian
+Female,20,Modern Medicine,Urban,No,Low,High,Non-Smoker,Vegetarian
+Female,20,Modern Medicine,Rural,No,Low,Low,Smoker,Vegetarian
+Male,20,Ayurveda,Rural,No,High,High,Non-Smoker,Non-Vegetarian
+Male,20,Modern Medicine,Urban,Yes,Low,Moderate,Non-Smoker,Vegetarian
+Female,20,Ayurveda,Urban,Yes,Low,High,Smoker,Vegetarian
+Male,20,Ayurveda,Rural,Yes,High,High,Smoker,Vegetarian
+Male,21,Modern Medicine,Urban,Yes,Low,Low,Non-Smoker,Vegetarian
+Female,21,Ayurveda,Urban,No,High,High,Non-Smoker,Non-Vegetarian
+Male,21,Ayurveda,Urban,No,Moderate,Low,Smoker,Non-Vegetarian
+Female,21,Ayurveda,Urban,No,High,Moderate,Smoker,Non-Vegetarian
+Female,21,Modern Medicine,Urban,Yes,Low,Moderate,Smoker,Non-Vegetarian
+Female,21,Ayurveda,Rural,No,High,Low,Smoker,Vegetarian
+Female,21,Modern Medicine,Urban,Yes,Moderate,Moderate,Smoker,Non-Vegetarian
+Female,21,Modern Medicine,Rural,Yes,High,Moderate,Non-Smoker,Non-Vegetarian
+Male,21,Modern Medicine,Urban,Yes,High,Low,Smoker,Vegetarian
+Male,21,Modern Medicine,Urban,Yes,Moderate,Low,Smoker,Vegetarian
+Female,21,Modern Medicine,Urban,No,High,High,Smoker,Non-Vegetarian
+Female,21,Ayurveda,Rural,Yes,Low,Low,Non-Smoker,Vegetarian
+Female,21,Modern Medicine,Rural,No,Low,Moderate,Non-Smoker,Vegetarian
+Male,21,Modern Medicine,Urban,Yes,Moderate,Moderate,Smoker,Non-Vegetarian
+Male,21,Modern Medicine,Rural,Yes,High,Moderate,Non-Smoker,Non-Vegetarian
+Female,21,Ayurveda,Rural,Yes,Moderate,Moderate,Smoker,Non-Vegetarian
+Female,21,Ayurveda,Urban,No,Moderate,High,Non-Smoker,Non-Vegetarian
+Female,21,Modern Medicine,Urban,No,Moderate,High,Non-Smoker,Vegetarian
+Male,21,Modern Medicine,Rural,Yes,High,High,Non-Smoker,Vegetarian
+Male,21,Ayurveda,Urban,No,High,High,Non-Smoker,Non-Vegetarian
+Female,21,Modern Medicine,Rural,No,High,Moderate,Non-Smoker,Vegetarian
+Male,21,Ayurveda,Rural,Yes,Low,Low,Smoker,Vegetarian
+Male,21,Ayurveda,Urban,No,Low,High,Smoker,Vegetarian
+Male,21,Ayurveda,Urban,Yes,High,High,Non-Smoker,Vegetarian
+Male,21,Modern Medicine,Urban,No,High,Moderate,Smoker,Non-Vegetarian
+Female,21,Ayurveda,Rural,Yes,Low,High,Smoker,Vegetarian
+Male,21,Ayurveda,Urban,Yes,Moderate,High,Smoker,Vegetarian
+Male,21,Modern Medicine,Rural,No,High,High,Smoker,Non-Vegetarian
+Female,21,Ayurveda,Urban,Yes,Moderate,Moderate,Non-Smoker,Non-Vegetarian
+Male,21,Ayurveda,Urban,Yes,Low,Moderate,Smoker,Non-Vegetarian
+Male,21,Modern Medicine,Rural,Yes,Moderate,High,Smoker,Non-Vegetarian
+Female,21,Modern Medicine,Rural,No,High,Low,Non-Smoker,Non-Vegetarian
+Female,21,Ayurveda,Urban,Yes,Moderate,Moderate,Smoker,Vegetarian
+Male,21,Ayurveda,Rural,No,Low,Low,Smoker,Vegetarian
+Male,22,Modern Medicine,Rural,Yes,Moderate,Moderate,Non-Smoker,Non-Vegetarian
+Female,22,Modern Medicine,Rural,Yes,High,Low,Non-Smoker,Vegetarian
+Male,22,Modern Medicine,Rural,No,Low,Low,Non-Smoker,Non-Vegetarian
+Female,22,Ayurveda,Rural,No,Moderate,High,Smoker,Vegetarian
+Male,22,Ayurveda,Urban,Yes,Moderate,Moderate,Non-Smoker,Non-Vegetarian
+Male,22,Modern Medicine,Urban,No,High,Low,Non-Smoker,Vegetarian
+Male,22,Modern Medicine,Rural,No,Moderate,High,Smoker,Vegetarian
+Male,22,Modern Medicine,Rural,Yes,Low,Low,Non-Smoker,Non-Vegetarian
+Male,22,Modern Medicine,Rural,No,High,Low,Smoker,Non-Vegetarian
+Female,22,Ayurveda,Urban,Yes,High,High,Smoker,Non-Vegetarian
+Male,22,Modern Medicine,Rural,No,Low,High,Smoker,Non-Vegetarian
+Male,22,Ayurveda,Rural,Yes,Low,Low,Non-Smoker,Non-Vegetarian
+Female,22,Ayurveda,Urban,Yes,High,Moderate,Smoker,Non-Vegetarian
+Male,22,Modern Medicine,Urban,Yes,Low,Moderate,Smoker,Vegetarian
+Female,22,Ayurveda,Rural,No,Low,Moderate,Smoker,Non-Vegetarian
+Male,22,Ayurveda,Rural,No,Moderate,Moderate,Non-Smoker,Non-Vegetarian
+Male,22,Ayurveda,Urban,Yes,High,High,Smoker,Non-Vegetarian
+Male,22,Modern Medicine,Rural,Yes,Low,High,Non-Smoker,Non-Vegetarian
+Male,22,Modern Medicine,Rural,Yes,Low,High,Smoker,Vegetarian
+Female,22,Modern Medicine,Rural,Yes,High,Moderate,Smoker,Vegetarian
+Female,22,Modern Medicine,Rural,Yes,Low,Moderate,Smoker,Non-Vegetarian
+Male,22,Modern Medicine,Urban,No,Moderate,Low,Non-Smoker,Vegetarian
+Female,22,Modern Medicine,Urban,Yes,Low,Moderate,Non-Smoker,Non-Vegetarian
+Female,22,Modern Medicine,Urban,Yes,Low,Moderate,Smoker,Non-Vegetarian
+Female,22,Modern Medicine,Urban,Yes,Low,Moderate,Smoker,Vegetarian
+Male,22,Ayurveda,Urban,Yes,Low,Moderate,Smoker,Non-Vegetarian
+Female,22,Modern Medicine,Urban,Yes,High,High,Non-Smoker,Vegetarian
+Male,22,Ayurveda,Rural,No,High,High,Non-Smoker,Vegetarian
+Female,22,Modern Medicine,Rural,Yes,Moderate,Low,Non-Smoker,Vegetarian
+Female,22,Ayurveda,Urban,No,Low,High,Smoker,Vegetarian
+Female,22,Modern Medicine,Rural,No,Low,Moderate,Smoker,Vegetarian
+Female,22,Ayurveda,Rural,Yes,Moderate,Moderate,Smoker,Non-Vegetarian
+Female,22,Ayurveda,Rural,Yes,Moderate,High,Non-Smoker,Vegetarian
+Male,22,Ayurveda,Rural,Yes,Low,High,Non-Smoker,Vegetarian
+Male,22,Ayurveda,Urban,Yes,Low,High,Smoker,Vegetarian
+Male,23,Modern Medicine,Urban,Yes,High,Moderate,Smoker,Vegetarian
+Female,23,Modern Medicine,Rural,No,Moderate,Moderate,Smoker,Non-Vegetarian
+Male,23,Modern Medicine,Urban,No,Moderate,Moderate,Non-Smoker,Vegetarian
+Male,23,Modern Medicine,Rural,No,High,Low,Non-Smoker,Non-Vegetarian
+Male,23,Ayurveda,Urban,Yes,High,Low,Smoker,Non-Vegetarian
+Male,23,Ayurveda,Rural,Yes,Low,Moderate,Non-Smoker,Vegetarian
+Female,23,Ayurveda,Urban,No,Low,Low,Non-Smoker,Non-Vegetarian
+Female,23,Ayurveda,Urban,No,Low,Low,Smoker,Non-Vegetarian
+Male,23,Modern Medicine,Rural,Yes,High,Low,Smoker,Non-Vegetarian
+Female,23,Modern Medicine,Urban,No,Low,High,Smoker,Vegetarian
+Female,23,Modern Medicine,Rural,No,High,Low,Non-Smoker,Non-Vegetarian
+Male,23,Ayurveda,Urban,Yes,High,High,Smoker,Vegetarian
+Male,23,Ayurveda,Rural,No,Moderate,Low,Smoker,Non-Vegetarian
+Female,23,Ayurveda,Rural,Yes,High,Moderate,Smoker,Vegetarian
+Male,23,Ayurveda,Rural,No,Moderate,High,Smoker,Vegetarian
+Male,23,Modern Medicine,Rural,Yes,High,Low,Non-Smoker,Non-Vegetarian
+Male,23,Modern Medicine,Rural,No,Low,Low,Non-Smoker,Non-Vegetarian
+Female,23,Modern Medicine,Urban,Yes,High,High,Non-Smoker,Non-Vegetarian
+Female,23,Modern Medicine,Rural,Yes,High,High,Non-Smoker,Non-Vegetarian
+Female,23,Ayurveda,Rural,Yes,High,High,Smoker,Non-Vegetarian
+Male,23,Modern Medicine,Urban,Yes,Low,Low,Non-Smoker,Non-Vegetarian
+Male,23,Ayurveda,Urban,Yes,Moderate,High,Non-Smoker,Non-Vegetarian
+Male,23,Modern Medicine,Rural,No,Moderate,High,Non-Smoker,Vegetarian
+Male,23,Ayurveda,Rural,Yes,Low,Low,Smoker,Non-Vegetarian
+Male,23,Modern Medicine,Urban,No,Low,High,Smoker,Non-Vegetarian
+Male,23,Ayurveda,Urban,No,Moderate,Moderate,Smoker,Non-Vegetarian
+Male,23,Modern Medicine,Urban,Yes,High,Low,Smoker,Vegetarian
+Female,23,Ayurveda,Rural,No,Moderate,High,Smoker,Non-Vegetarian
+Male,23,Ayurveda,Urban,Yes,High,Low,Non-Smoker,Non-Vegetarian
+Female,23,Modern Medicine,Rural,No,High,Low,Smoker,Vegetarian
+Male,23,Ayurveda,Urban,Yes,Low,Low,Non-Smoker,Non-Vegetarian
+Male,23,Ayurveda,Urban,Yes,High,High,Non-Smoker,Vegetarian
+Female,23,Modern Medicine,Rural,No,Low,High,Smoker,Non-Vegetarian
+Male,23,Modern Medicine,Urban,Yes,Low,Moderate,Smoker,Non-Vegetarian
+Male,23,Modern Medicine,Rural,Yes,Moderate,Low,Smoker,Vegetarian
+Female,23,Ayurveda,Rural,Yes,High,Low,Non-Smoker,Non-Vegetarian
+Female,24,Ayurveda,Urban,Yes,High,Low,Non-Smoker,Non-Vegetarian
+Female,24,Ayurveda,Urban,No,High,Moderate,Non-Smoker,Non-Vegetarian
+Female,24,Modern Medicine,Rural,Yes,Moderate,Moderate,Non-Smoker,Non-Vegetarian
+Male,24,Modern Medicine,Urban,Yes,High,Low,Smoker,Vegetarian
+Female,24,Ayurveda,Rural,Yes,Low,High,Smoker,Non-Vegetarian
+Female,24,Modern Medicine,Rural,Yes,Low,Low,Non-Smoker,Vegetarian
+Male,24,Ayurveda,Urban,No,High,Moderate,Non-Smoker,Vegetarian
+Female,24,Ayurveda,Urban,Yes,High,Moderate,Non-Smoker,Vegetarian
+Male,24,Ayurveda,Rural,Yes,Moderate,Moderate,Smoker,Non-Vegetarian
+Female,24,Ayurveda,Rural,No,Low,Moderate,Smoker,Non-Vegetarian
+Male,24,Modern Medicine,Rural,No,High,Moderate,Non-Smoker,Non-Vegetarian
+Male,24,Ayurveda,Urban,No,Low,Low,Smoker,Vegetarian
+Female,24,Ayurveda,Rural,Yes,Low,Moderate,Non-Smoker,Vegetarian
+Female,24,Ayurveda,Urban,Yes,High,High,Non-Smoker,Vegetarian
+Female,24,Modern Medicine,Urban,No,Low,High,Smoker,Vegetarian
+Male,24,Ayurveda,Rural,Yes,High,High,Non-Smoker,Vegetarian
+Female,24,Ayurveda,Urban,Yes,Low,Moderate,Smoker,Vegetarian
+Female,24,Modern Medicine,Rural,No,Low,High,Non-Smoker,Non-Vegetarian
+Male,24,Ayurveda,Rural,Yes,Low,Moderate,Non-Smoker,Vegetarian
+Female,24,Ayurveda,Urban,No,High,Low,Smoker,Non-Vegetarian
+Female,24,Ayurveda,Urban,Yes,Low,High,Smoker,Vegetarian
+Female,24,Modern Medicine,Rural,No,Low,Low,Smoker,Non-Vegetarian
+Male,24,Modern Medicine,Rural,No,High,Low,Non-Smoker,Vegetarian
+Female,24,Ayurveda,Rural,Yes,Moderate,High,Smoker,Vegetarian
+Female,24,Modern Medicine,Rural,Yes,High,Moderate,Non-Smoker,Non-Vegetarian
+Female,24,Modern Medicine,Urban,No,Low,High,Non-Smoker,Vegetarian
+Female,24,Ayurveda,Urban,No,Moderate,High,Smoker,Vegetarian
+Male,24,Modern Medicine,Urban,No,Low,High,Non-Smoker,Vegetarian
+Male,24,Modern Medicine,Urban,No,High,Low,Non-Smoker,Non-Vegetarian
+Male,24,Modern Medicine,Urban,No,Low,Low,Smoker,Vegetarian
+Female,24,Ayurveda,Rural,Yes,Moderate,Low,Smoker,Non-Vegetarian
+Male,24,Ayurveda,Rural,Yes,Low,Moderate,Non-Smoker,Non-Vegetarian
+Male,24,Modern Medicine,Urban,No,High,High,Smoker,Vegetarian
+Male,24,Ayurveda,Rural,Yes,High,Moderate,Non-Smoker,Non-Vegetarian
+Male,24,Modern Medicine,Rural,No,Low,Moderate,Smoker,Non-Vegetarian
+Female,24,Modern Medicine,Rural,Yes,Moderate,High,Smoker,Non-Vegetarian
+Female,25,Ayurveda,Urban,Yes,High,Moderate,Non-Smoker,Vegetarian
+Female,25,Ayurveda,Rural,No,High,High,Smoker,Vegetarian
+Female,25,Modern Medicine,Rural,No,High,High,Smoker,Vegetarian
+Male,25,Ayurveda,Urban,Yes,Moderate,High,Non-Smoker,Non-Vegetarian
+Female,25,Modern Medicine,Urban,Yes,Moderate,Low,Non-Smoker,Non-Vegetarian
+Female,25,Ayurveda,Rural,No,Moderate,High,Non-Smoker,Vegetarian
+Female,25,Ayurveda,Urban,No,Low,High,Smoker,Vegetarian
+Female,25,Modern Medicine,Urban,No,Low,High,Non-Smoker,Vegetarian
+Male,25,Ayurveda,Urban,Yes,High,Moderate,Smoker,Vegetarian
+Male,25,Modern Medicine,Rural,No,Low,Moderate,Smoker,Vegetarian
+Male,25,Modern Medicine,Rural,No,Low,High,Smoker,Non-Vegetarian
+Male,25,Modern Medicine,Rural,Yes,Low,High,Smoker,Vegetarian
+Female,25,Ayurveda,Rural,No,High,Low,Smoker,Non-Vegetarian
+Female,25,Modern Medicine,Rural,Yes,Low,High,Non-Smoker,Non-Vegetarian
+Male,25,Modern Medicine,Rural,No,Low,High,Non-Smoker,Non-Vegetarian
+Male,25,Ayurveda,Rural,Yes,Moderate,Moderate,Smoker,Vegetarian
+Male,25,Ayurveda,Rural,No,High,Moderate,Non-Smoker,Vegetarian
+Male,25,Ayurveda,Rural,No,High,Low,Smoker,Non-Vegetarian
+Female,25,Ayurveda,Urban,Yes,High,High,Non-Smoker,Vegetarian
+Female,25,Modern Medicine,Rural,Yes,Low,High,Non-Smoker,Vegetarian
+Female,25,Ayurveda,Urban,No,Low,Moderate,Non-Smoker,Vegetarian
+Male,25,Modern Medicine,Urban,No,Moderate,High,Smoker,Non-Vegetarian
+Male,25,Modern Medicine,Rural,Yes,High,Moderate,Non-Smoker,Vegetarian
+Female,25,Ayurveda,Rural,No,High,High,Smoker,Non-Vegetarian
+Female,25,Ayurveda,Rural,No,High,Low,Smoker,Non-Vegetarian
+Male,25,Modern Medicine,Urban,Yes,Moderate,Moderate,Smoker,Non-Vegetarian
+Female,25,Ayurveda,Urban,Yes,High,Moderate,Smoker,Vegetarian
+Female,25,Modern Medicine,Rural,No,High,High,Smoker,Vegetarian
+Male,25,Modern Medicine,Rural,Yes,High,High,Non-Smoker,Vegetarian
+Female,25,Modern Medicine,Urban,No,Moderate,Moderate,Smoker,Vegetarian
+Male,25,Ayurveda,Rural,Yes,Moderate,Moderate,Smoker,Non-Vegetarian
+Male,25,Ayurveda,Urban,Yes,Moderate,Moderate,Smoker,Vegetarian
+Male,25,Ayurveda,Urban,Yes,High,Low,Smoker,Vegetarian
+Female,25,Ayurveda,Urban,Yes,Low,Moderate,Non-Smoker,Vegetarian
+Male,25,Modern Medicine,Rural,Yes,High,High,Smoker,Non-Vegetarian
+Female,26,Ayurveda,Rural,Yes,High,Low,Smoker,Non-Vegetarian
+Male,26,Ayurveda,Rural,No,Moderate,Moderate,Non-Smoker,Vegetarian
+Female,26,Ayurveda,Rural,Yes,Moderate,Moderate,Non-Smoker,Non-Vegetarian
+Male,26,Ayurveda,Rural,Yes,Low,High,Smoker,Vegetarian
+Male,26,Ayurveda,Rural,Yes,High,High,Non-Smoker,Vegetarian
+Male,26,Ayurveda,Rural,No,Low,High,Smoker,Vegetarian
+Male,26,Ayurveda,Rural,No,High,Low,Non-Smoker,Vegetarian
+Male,26,Ayurveda,Rural,Yes,High,Moderate,Non-Smoker,Non-Vegetarian
+Male,26,Modern Medicine,Rural,Yes,High,Moderate,Non-Smoker,Non-Vegetarian
+Male,26,Modern Medicine,Rural,Yes,Low,Low,Smoker,Vegetarian
+Female,26,Ayurveda,Rural,No,Low,Moderate,Non-Smoker,Vegetarian
+Male,26,Ayurveda,Rural,No,High,Low,Smoker,Vegetarian
+Female,26,Ayurveda,Urban,No,Low,Moderate,Smoker,Non-Vegetarian
+Female,26,Modern Medicine,Urban,No,High,Moderate,Smoker,Non-Vegetarian
+Female,26,Ayurveda,Urban,No,High,High,Smoker,Vegetarian
+Female,26,Ayurveda,Rural,No,Moderate,Low,Smoker,Non-Vegetarian
+Female,26,Ayurveda,Urban,No,Moderate,High,Smoker,Vegetarian
+Male,26,Modern Medicine,Rural,Yes,Moderate,Moderate,Smoker,Non-Vegetarian
+Female,26,Ayurveda,Rural,No,Moderate,Low,Non-Smoker,Vegetarian
+Male,26,Ayurveda,Urban,No,High,Moderate,Smoker,Vegetarian
+Female,26,Ayurveda,Rural,No,Low,High,Non-Smoker,Vegetarian
+Male,26,Modern Medicine,Urban,No,Moderate,Moderate,Smoker,Vegetarian
+Male,26,Ayurveda,Urban,Yes,Moderate,Low,Non-Smoker,Vegetarian
+Female,26,Modern Medicine,Urban,No,Low,Low,Non-Smoker,Non-Vegetarian
+Female,26,Ayurveda,Rural,Yes,Low,High,Smoker,Non-Vegetarian
+Female,26,Modern Medicine,Urban,Yes,High,Moderate,Smoker,Vegetarian
+Male,26,Modern Medicine,Urban,No,Moderate,High,Non-Smoker,Vegetarian
+Female,26,Ayurveda,Rural,Yes,Low,Low,Non-Smoker,Vegetarian
+Male,26,Modern Medicine,Urban,Yes,Low,High,Smoker,Vegetarian
+Female,26,Modern Medicine,Urban,No,High,High,Smoker,Vegetarian
+Male,26,Ayurveda,Urban,No,Low,High,Non-Smoker,Non-Vegetarian
+Male,26,Modern Medicine,Rural,No,High,High,Non-Smoker,Non-Vegetarian
+Female,26,Modern Medicine,Rural,Yes,Low,Moderate,Smoker,Non-Vegetarian
+Male,26,Ayurveda,Rural,Yes,High,Low,Non-Smoker,Non-Vegetarian
+Female,26,Ayurveda,Urban,No,High,High,Non-Smoker,Non-Vegetarian
+Female,26,Ayurveda,Rural,Yes,Moderate,High,Smoker,Vegetarian
+Female,27,Ayurveda,Urban,Yes,Low,High,Smoker,Non-Vegetarian
+Male,27,Ayurveda,Urban,No,High,High,Smoker,Vegetarian
+Male,27,Ayurveda,Urban,Yes,Moderate,Low,Smoker,Non-Vegetarian
+Male,27,Modern Medicine,Urban,No,Moderate,High,Smoker,Vegetarian
+Male,27,Ayurveda,Rural,No,Moderate,High,Smoker,Non-Vegetarian
+Female,27,Modern Medicine,Urban,Yes,Low,Moderate,Smoker,Non-Vegetarian
+Male,27,Modern Medicine,Urban,No,Moderate,Moderate,Smoker,Vegetarian
+Male,27,Ayurveda,Rural,Yes,High,Moderate,Smoker,Vegetarian
+Female,27,Ayurveda,Urban,Yes,Low,High,Smoker,Non-Vegetarian
+Male,27,Ayurveda,Urban,No,Low,Moderate,Non-Smoker,Vegetarian
+Male,27,Ayurveda,Urban,No,Moderate,Moderate,Non-Smoker,Non-Vegetarian
+Female,27,Modern Medicine,Rural,Yes,High,Moderate,Non-Smoker,Vegetarian
+Female,27,Modern Medicine,Urban,No,Low,Low,Smoker,Vegetarian
+Female,27,Modern Medicine,Rural,No,Low,High,Non-Smoker,Non-Vegetarian
+Female,27,Modern Medicine,Urban,No,High,High,Smoker,Vegetarian
+Female,27,Modern Medicine,Urban,No,Moderate,High,Non-Smoker,Non-Vegetarian
+Female,27,Modern Medicine,Urban,Yes,Moderate,High,Non-Smoker,Vegetarian
+Male,27,Ayurveda,Urban,No,Moderate,Moderate,Smoker,Non-Vegetarian
+Female,27,Ayurveda,Urban,Yes,Low,Moderate,Smoker,Vegetarian
+Male,27,Ayurveda,Rural,No,Low,Low,Non-Smoker,Non-Vegetarian
+Female,27,Modern Medicine,Rural,Yes,Moderate,Moderate,Smoker,Vegetarian
+Male,27,Ayurveda,Rural,No,Low,High,Non-Smoker,Non-Vegetarian
+Male,27,Modern Medicine,Urban,Yes,High,Moderate,Non-Smoker,Vegetarian
+Male,27,Modern Medicine,Urban,No,Moderate,Low,Non-Smoker,Non-Vegetarian
+Female,27,Ayurveda,Rural,Yes,Low,High,Non-Smoker,Non-Vegetarian
+Male,27,Modern Medicine,Urban,Yes,Low,Moderate,Non-Smoker,Non-Vegetarian
+Male,27,Modern Medicine,Rural,Yes,Low,Low,Smoker,Non-Vegetarian
+Male,27,Modern Medicine,Rural,No,Moderate,High,Smoker,Vegetarian
+Female,27,Modern Medicine,Urban,Yes,Low,High,Non-Smoker,Vegetarian
+Female,27,Ayurveda,Urban,Yes,High,High,Non-Smoker,Non-Vegetarian
+Female,27,Ayurveda,Rural,No,Moderate,Low,Non-Smoker,Non-Vegetarian
+Female,27,Modern Medicine,Rural,Yes,High,High,Non-Smoker,Vegetarian
+Female,27,Ayurveda,Urban,No,Moderate,Moderate,Non-Smoker,Vegetarian
+Male,27,Modern Medicine,Rural,No,High,High,Non-Smoker,Vegetarian
+Female,27,Ayurveda,Urban,Yes,High,Moderate,Smoker,Non-Vegetarian
+Female,27,Ayurveda,Rural,No,Moderate,Moderate,Smoker,Vegetarian
+Female,28,Modern Medicine,Urban,No,Low,High,Smoker,Vegetarian
+Female,28,Ayurveda,Urban,No,Low,Moderate,Non-Smoker,Non-Vegetarian
+Female,28,Ayurveda,Rural,No,Low,Low,Smoker,Non-Vegetarian
+Female,28,Modern Medicine,Urban,No,High,Low,Non-Smoker,Non-Vegetarian
+Female,28,Modern Medicine,Rural,Yes,Low,High,Smoker,Vegetarian
+Female,28,Ayurveda,Urban,Yes,Moderate,High,Non-Smoker,Non-Vegetarian
+Male,28,Ayurveda,Urban,No,Moderate,Low,Smoker,Non-Vegetarian
+Female,28,Ayurveda,Rural,Yes,Low,Low,Non-Smoker,Non-Vegetarian
+Male,28,Ayurveda,Urban,No,Moderate,High,Smoker,Non-Vegetarian
+Male,28,Ayurveda,Rural,No,Moderate,Low,Non-Smoker,Vegetarian
+Female,28,Ayurveda,Rural,No,Moderate,Low,Smoker,Non-Vegetarian
+Female,28,Modern Medicine,Urban,Yes,Moderate,Moderate,Smoker,Vegetarian
+Female,28,Ayurveda,Rural,Yes,Moderate,Low,Non-Smoker,Non-Vegetarian
+Male,28,Modern Medicine,Rural,No,Moderate,Moderate,Smoker,Non-Vegetarian
+Male,28,Ayurveda,Urban,Yes,Moderate,Low,Non-Smoker,Vegetarian
+Female,28,Modern Medicine,Rural,No,Low,Low,Non-Smoker,Vegetarian
+Male,28,Modern Medicine,Urban,Yes,Low,High,Non-Smoker,Non-Vegetarian
+Female,28,Ayurveda,Urban,No,Moderate,Low,Smoker,Vegetarian
+Male,28,Modern Medicine,Urban,Yes,Low,Low,Smoker,Non-Vegetarian
+Male,28,Modern Medicine,Urban,No,High,Moderate,Smoker,Non-Vegetarian
+Female,28,Ayurveda,Urban,No,Low,Moderate,Non-Smoker,Non-Vegetarian
+Female,28,Ayurveda,Urban,No,Moderate,High,Smoker,Non-Vegetarian
+Male,28,Ayurveda,Rural,Yes,Low,Low,Smoker,Vegetarian
+Female,28,Modern Medicine,Rural,No,High,Moderate,Smoker,Non-Vegetarian
+Female,28,Modern Medicine,Urban,Yes,Low,Low,Non-Smoker,Non-Vegetarian
+Female,28,Ayurveda,Rural,No,Moderate,Low,Smoker,Vegetarian
+Male,28,Modern Medicine,Urban,No,Moderate,Moderate,Non-Smoker,Vegetarian
+Male,28,Modern Medicine,Rural,No,Low,Moderate,Non-Smoker,Vegetarian
+Female,28,Modern Medicine,Rural,Yes,Moderate,Moderate,Smoker,Vegetarian
+Male,28,Modern Medicine,Rural,No,High,Low,Non-Smoker,Non-Vegetarian
+Female,28,Ayurveda,Rural,Yes,Moderate,Moderate,Non-Smoker,Non-Vegetarian
+Male,28,Ayurveda,Urban,Yes,Moderate,Moderate,Smoker,Vegetarian
+Female,28,Modern Medicine,Urban,No,Moderate,Moderate,Smoker,Non-Vegetarian
+Female,28,Modern Medicine,Urban,Yes,Low,High,Non-Smoker,Vegetarian
+Female,28,Modern Medicine,Rural,No,High,High,Non-Smoker,Non-Vegetarian
+Female,28,Modern Medicine,Rural,No,High,Low,Non-Smoker,Non-Vegetarian
+Male,29,Ayurveda,Urban,No,High,Moderate,Smoker,Vegetarian
+Male,29,Modern Medicine,Urban,Yes,Moderate,Moderate,Non-Smoker,Vegetarian
+Female,29,Modern Medicine,Rural,No,Low,High,Smoker,Vegetarian
+Male,29,Ayurveda,Urban,No,High,High,Non-Smoker,Vegetarian
+Female,29,Modern Medicine,Urban,No,Moderate,Low,Smoker,Vegetarian
+Female,29,Ayurveda,Urban,No,Low,Low,Smoker,Non-Vegetarian
+Female,29,Ayurveda,Rural,Yes,Low,Moderate,Non-Smoker,Non-Vegetarian
+Male,29,Ayurveda,Urban,No,High,Moderate,Smoker,Non-Vegetarian
+Male,29,Ayurveda,Rural,No,Low,Moderate,Smoker,Vegetarian
+Male,29,Ayurveda,Rural,No,Moderate,Low,Smoker,Non-Vegetarian
+Female,29,Ayurveda,Rural,No,High,High,Smoker,Non-Vegetarian
+Female,29,Ayurveda,Urban,No,High,Low,Smoker,Non-Vegetarian
+Female,29,Ayurveda,Rural,Yes,Moderate,High,Non-Smoker,Non-Vegetarian
+Female,29,Ayurveda,Rural,No,Low,Moderate,Non-Smoker,Non-Vegetarian
+Female,29,Modern Medicine,Urban,Yes,Low,High,Non-Smoker,Non-Vegetarian
+Male,29,Ayurveda,Rural,Yes,Moderate,Moderate,Smoker,Non-Vegetarian
+Female,29,Modern Medicine,Rural,Yes,Moderate,High,Smoker,Non-Vegetarian
+Male,29,Modern Medicine,Urban,Yes,High,High,Non-Smoker,Vegetarian
+Female,29,Modern Medicine,Rural,Yes,High,High,Non-Smoker,Non-Vegetarian
+Male,29,Ayurveda,Urban,No,Moderate,High,Non-Smoker,Non-Vegetarian
+Male,29,Ayurveda,Rural,Yes,High,Low,Smoker,Vegetarian
+Male,29,Ayurveda,Rural,Yes,Low,High,Non-Smoker,Non-Vegetarian
+Female,29,Ayurveda,Rural,Yes,Low,Low,Smoker,Non-Vegetarian
+Male,29,Ayurveda,Rural,Yes,Low,Moderate,Non-Smoker,Vegetarian
+Male,29,Ayurveda,Urban,No,Low,Low,Smoker,Vegetarian
+Male,29,Ayurveda,Rural,No,High,Moderate,Non-Smoker,Vegetarian
+Male,29,Modern Medicine,Rural,Yes,Low,Low,Smoker,Vegetarian
+Male,29,Ayurveda,Rural,No,Low,Moderate,Smoker,Non-Vegetarian
+Male,29,Ayurveda,Urban,No,High,Low,Non-Smoker,Non-Vegetarian
+Male,29,Ayurveda,Urban,Yes,High,High,Non-Smoker,Non-Vegetarian
+Female,29,Modern Medicine,Urban,Yes,High,Moderate,Non-Smoker,Non-Vegetarian
+Female,29,Modern Medicine,Urban,No,High,Low,Smoker,Vegetarian
+Female,29,Modern Medicine,Rural,Yes,High,Low,Smoker,Vegetarian
+Male,29,Modern Medicine,Urban,Yes,High,High,Non-Smoker,Non-Vegetarian
+Female,29,Ayurveda,Urban,No,Moderate,Moderate,Smoker,Non-Vegetarian
+Male,29,Ayurveda,Rural,Yes,Low,High,Smoker,Vegetarian
+Female,30,Ayurveda,Rural,No,Low,Low,Smoker,Vegetarian
+Female,30,Modern Medicine,Rural,No,Moderate,High,Non-Smoker,Non-Vegetarian
+Male,30,Modern Medicine,Rural,Yes,Low,Low,Smoker,Vegetarian
+Female,30,Ayurveda,Urban,Yes,High,High,Smoker,Non-Vegetarian
+Male,30,Ayurveda,Rural,Yes,Moderate,High,Smoker,Vegetarian
+Female,30,Modern Medicine,Urban,No,Low,Low,Smoker,Non-Vegetarian
+Male,30,Ayurveda,Urban,Yes,High,High,Non-Smoker,Non-Vegetarian
+Female,30,Modern Medicine,Urban,No,Moderate,High,Smoker,Vegetarian
+Female,30,Ayurveda,Urban,No,High,High,Smoker,Non-Vegetarian
+Male,30,Ayurveda,Urban,Yes,Low,Moderate,Non-Smoker,Vegetarian
+Male,30,Ayurveda,Rural,No,Low,Moderate,Non-Smoker,Vegetarian
+Male,30,Modern Medicine,Urban,No,Low,Moderate,Smoker,Vegetarian
+Female,30,Ayurveda,Rural,No,Low,Low,Non-Smoker,Non-Vegetarian
+Female,30,Modern Medicine,Rural,Yes,Low,High,Non-Smoker,Vegetarian
+Female,30,Ayurveda,Urban,No,Low,Low,Non-Smoker,Vegetarian
+Male,30,Modern Medicine,Urban,No,Low,Low,Smoker,Vegetarian
+Female,30,Modern Medicine,Rural,Yes,Low,Low,Smoker,Vegetarian
+Male,30,Ayurveda,Urban,Yes,Low,High,Smoker,Vegetarian
+Female,30,Modern Medicine,Rural,No,Low,High,Non-Smoker,Non-Vegetarian
+Male,30,Modern Medicine,Urban,Yes,High,Moderate,Non-Smoker,Vegetarian
+Male,30,Modern Medicine,Urban,Yes,Moderate,Moderate,Non-Smoker,Vegetarian
+Male,30,Ayurveda,Urban,Yes,Moderate,Moderate,Smoker,Vegetarian
+Male,30,Ayurveda,Urban,Yes,High,Moderate,Non-Smoker,Non-Vegetarian
+Female,30,Ayurveda,Urban,Yes,High,High,Smoker,Vegetarian
+Female,30,Modern Medicine,Urban,Yes,High,Low,Smoker,Non-Vegetarian
+Male,30,Modern Medicine,Urban,Yes,Low,High,Smoker,Vegetarian
+Female,30,Modern Medicine,Rural,No,High,High,Smoker,Non-Vegetarian
+Female,30,Modern Medicine,Rural,Yes,Moderate,High,Smoker,Vegetarian
+Male,30,Ayurveda,Urban,No,Moderate,Moderate,Non-Smoker,Non-Vegetarian
+Male,30,Modern Medicine,Urban,Yes,Moderate,High,Smoker,Vegetarian
+Male,30,Modern Medicine,Rural,No,Low,High,Smoker,Vegetarian
+Male,30,Ayurveda,Urban,Yes,Low,Low,Non-Smoker,Non-Vegetarian
+Female,30,Modern Medicine,Urban,No,Moderate,Moderate,Non-Smoker,Non-Vegetarian
+Female,30,Ayurveda,Urban,Yes,Low,High,Non-Smoker,Non-Vegetarian
+Female,31,Modern Medicine,Rural,Yes,Low,Moderate,Smoker,Vegetarian
+Female,31,Ayurveda,Rural,Yes,High,Low,Smoker,Vegetarian
+Female,31,Modern Medicine,Urban,Yes,Low,High,Smoker,Non-Vegetarian
+Female,31,Ayurveda,Rural,Yes,Low,High,Smoker,Vegetarian
+Male,31,Modern Medicine,Urban,No,Low,Moderate,Non-Smoker,Vegetarian
+Female,31,Ayurveda,Rural,Yes,High,Moderate,Smoker,Vegetarian
+Male,31,Modern Medicine,Rural,Yes,Low,High,Non-Smoker,Vegetarian
+Female,31,Ayurveda,Rural,Yes,Moderate,Moderate,Smoker,Vegetarian
+Male,31,Ayurveda,Urban,No,Moderate,Low,Smoker,Vegetarian
+Female,31,Modern Medicine,Urban,No,High,Moderate,Non-Smoker,Vegetarian
+Female,31,Modern Medicine,Rural,Yes,High,Low,Non-Smoker,Vegetarian
+Female,31,Modern Medicine,Rural,Yes,High,Low,Non-Smoker,Vegetarian
+Male,31,Ayurveda,Urban,Yes,High,High,Non-Smoker,Non-Vegetarian
+Male,31,Modern Medicine,Urban,No,High,Low,Non-Smoker,Vegetarian
+Male,31,Ayurveda,Rural,Yes,Low,Low,Smoker,Non-Vegetarian
+Female,31,Ayurveda,Urban,No,Moderate,High,Smoker,Vegetarian
+Male,31,Ayurveda,Rural,Yes,Low,High,Non-Smoker,Non-Vegetarian
+Male,31,Modern Medicine,Urban,No,Low,Moderate,Non-Smoker,Non-Vegetarian
+Male,31,Modern Medicine,Rural,No,Moderate,Moderate,Smoker,Vegetarian
+Female,31,Ayurveda,Rural,Yes,Moderate,Low,Smoker,Vegetarian
+Male,31,Ayurveda,Urban,No,Low,Low,Non-Smoker,Vegetarian
+Female,31,Ayurveda,Urban,Yes,Low,Low,Smoker,Vegetarian
+Female,31,Modern Medicine,Urban,Yes,High,High,Smoker,Vegetarian
+Male,31,Ayurveda,Rural,Yes,High,Low,Non-Smoker,Non-Vegetarian
+Male,31,Modern Medicine,Urban,Yes,Moderate,High,Non-Smoker,Vegetarian
+Female,31,Modern Medicine,Urban,No,Moderate,High,Non-Smoker,Non-Vegetarian
+Female,31,Modern Medicine,Urban,Yes,High,Moderate,Smoker,Vegetarian
+Male,31,Modern Medicine,Urban,Yes,Moderate,Moderate,Smoker,Vegetarian
+Female,31,Modern Medicine,Urban,No,Low,Low,Smoker,Vegetarian
+Male,31,Ayurveda,Urban,Yes,Moderate,Low,Non-Smoker,Vegetarian
+Female,31,Ayurveda,Urban,Yes,Moderate,Low,Smoker,Vegetarian
+Female,31,Ayurveda,Rural,No,High,High,Smoker,Non-Vegetarian
+Male,31,Modern Medicine,Rural,No,Low,Moderate,Non-Smoker,Non-Vegetarian
+Male,31,Modern Medicine,Urban,Yes,Moderate,Moderate,Non-Smoker,Vegetarian
+Male,31,Ayurveda,Rural,No,High,Low,Non-Smoker,Non-Vegetarian
+Female,32,Modern Medicine,Rural,No,Low,Low,Non-Smoker,Vegetarian
+Female,32,Ayurveda,Urban,Yes,Moderate,Low,Smoker,Non-Vegetarian
+Female,32,Ayurveda,Urban,No,High,High,Non-Smoker,Vegetarian
+Male,32,Ayurveda,Rural,No,High,Low,Smoker,Non-Vegetarian
+Male,32,Modern Medicine,Rural,Yes,High,Low,Smoker,Vegetarian
+Male,32,Modern Medicine,Rural,Yes,Moderate,Moderate,Smoker,Vegetarian
+Male,32,Modern Medicine,Rural,Yes,Low,Low,Non-Smoker,Non-Vegetarian
+Male,32,Modern Medicine,Rural,Yes,Low,Moderate,Non-Smoker,Non-Vegetarian
+Male,32,Modern Medicine,Rural,Yes,High,High,Smoker,Vegetarian
+Male,32,Ayurveda,Urban,Yes,Low,Low,Smoker,Non-Vegetarian
+Male,32,Ayurveda,Urban,No,High,Moderate,Smoker,Non-Vegetarian
+Female,32,Modern Medicine,Urban,No,High,Moderate,Non-Smoker,Vegetarian
+Male,32,Ayurveda,Urban,Yes,Low,High,Non-Smoker,Non-Vegetarian
+Male,32,Modern Medicine,Urban,No,High,High,Non-Smoker,Non-Vegetarian
+Male,32,Modern Medicine,Rural,No,Low,High,Non-Smoker,Non-Vegetarian
+Female,32,Modern Medicine,Urban,No,Low,High,Smoker,Vegetarian
+Male,32,Ayurveda,Rural,No,Low,High,Non-Smoker,Non-Vegetarian
+Female,32,Ayurveda,Urban,No,High,Moderate,Non-Smoker,Non-Vegetarian
+Female,32,Ayurveda,Rural,Yes,High,Moderate,Smoker,Vegetarian
+Female,32,Ayurveda,Urban,Yes,Low,Moderate,Smoker,Vegetarian
+Female,32,Ayurveda,Rural,No,High,High,Smoker,Non-Vegetarian
+Female,32,Ayurveda,Rural,No,Low,Low,Smoker,Vegetarian
+Female,32,Modern Medicine,Rural,No,High,High,Smoker,Non-Vegetarian
+Male,32,Modern Medicine,Rural,No,Low,Moderate,Smoker,Vegetarian
+Female,32,Modern Medicine,Urban,No,Low,High,Non-Smoker,Non-Vegetarian
+Male,32,Modern Medicine,Rural,Yes,Low,High,Smoker,Vegetarian
+Male,32,Modern Medicine,Rural,Yes,Low,High,Non-Smoker,Non-Vegetarian
+Female,32,Ayurveda,Urban,Yes,Low,Low,Non-Smoker,Vegetarian
+Female,32,Ayurveda,Urban,No,High,Moderate,Smoker,Vegetarian
+Male,32,Modern Medicine,Rural,No,Moderate,Low,Smoker,Vegetarian
+Male,32,Ayurveda,Rural,Yes,Low,High,Smoker,Non-Vegetarian
+Male,32,Ayurveda,Urban,Yes,High,High,Non-Smoker,Vegetarian
+Male,32,Ayurveda,Rural,Yes,Low,High,Non-Smoker,Vegetarian
+Female,32,Ayurveda,Rural,No,Low,High,Non-Smoker,Non-Vegetarian
+Male,32,Ayurveda,Rural,Yes,High,Moderate,Smoker,Non-Vegetarian
+Male,33,Ayurveda,Rural,Yes,High,Moderate,Non-Smoker,Vegetarian
+Female,33,Ayurveda,Rural,Yes,Low,High,Smoker,Vegetarian
+Male,33,Modern Medicine,Rural,Yes,Moderate,Moderate,Smoker,Non-Vegetarian
+Male,33,Ayurveda,Rural,No,Moderate,Moderate,Smoker,Non-Vegetarian
+Male,33,Ayurveda,Rural,No,High,Moderate,Smoker,Vegetarian
+Male,33,Ayurveda,Rural,Yes,Moderate,Low,Non-Smoker,Vegetarian
+Female,33,Ayurveda,Rural,Yes,Moderate,High,Non-Smoker,Non-Vegetarian
+Female,33,Ayurveda,Urban,No,High,Low,Non-Smoker,Non-Vegetarian
+Male,33,Ayurveda,Urban,No,Moderate,Moderate,Non-Smoker,Vegetarian
+Female,33,Ayurveda,Urban,No,Moderate,Moderate,Smoker,Vegetarian
+Male,33,Ayurveda,Rural,Yes,Low,Low,Non-Smoker,Non-Vegetarian
+Female,33,Ayurveda,Rural,No,Moderate,Low,Non-Smoker,Non-Vegetarian
+Male,33,Modern Medicine,Urban,Yes,Low,Moderate,Smoker,Vegetarian
+Female,33,Ayurveda,Rural,Yes,Low,Moderate,Smoker,Non-Vegetarian
+Female,33,Modern Medicine,Urban,Yes,Moderate,Moderate,Smoker,Vegetarian
+Male,33,Ayurveda,Rural,No,Moderate,Low,Smoker,Non-Vegetarian
+Female,33,Ayurveda,Rural,Yes,Low,Low,Smoker,Non-Vegetarian
+Female,33,Modern Medicine,Rural,Yes,Moderate,Moderate,Smoker,Non-Vegetarian
+Female,33,Ayurveda,Rural,No,Low,High,Non-Smoker,Non-Vegetarian
+Male,33,Modern Medicine,Rural,Yes,High,High,Non-Smoker,Vegetarian
+Female,33,Modern Medicine,Rural,No,High,High,Smoker,Non-Vegetarian
+Female,33,Ayurveda,Rural,Yes,Low,Moderate,Non-Smoker,Non-Vegetarian
+Female,33,Ayurveda,Rural,No,High,Moderate,Non-Smoker,Vegetarian
+Male,33,Modern Medicine,Urban,No,High,Moderate,Non-Smoker,Non-Vegetarian
+Male,33,Modern Medicine,Urban,Yes,Low,High,Smoker,Non-Vegetarian
+Female,33,Modern Medicine,Rural,Yes,Low,Low,Smoker,Vegetarian
+Male,33,Ayurveda,Urban,No,Low,Low,Smoker,Vegetarian
+Male,33,Ayurveda,Rural,No,Moderate,High,Non-Smoker,Non-Vegetarian
+Male,33,Modern Medicine,Rural,No,Moderate,Low,Non-Smoker,Non-Vegetarian
+Female,33,Modern Medicine,Rural,Yes,High,Low,Non-Smoker,Non-Vegetarian
+Female,33,Modern Medicine,Urban,Yes,Moderate,High,Non-Smoker,Vegetarian
+Female,33,Modern Medicine,Urban,No,Moderate,Moderate,Non-Smoker,Vegetarian
+Female,33,Modern Medicine,Rural,Yes,High,Moderate,Non-Smoker,Vegetarian
+Male,33,Ayurveda,Urban,Yes,High,Moderate,Smoker,Non-Vegetarian
+Female,33,Modern Medicine,Urban,Yes,High,High,Non-Smoker,Vegetarian
+Female,34,Ayurveda,Rural,No,Moderate,Moderate,Smoker,Vegetarian
+Male,34,Modern Medicine,Rural,No,Moderate,High,Non-Smoker,Vegetarian
+Female,34,Ayurveda,Rural,Yes,Low,Low,Non-Smoker,Non-Vegetarian
+Male,34,Ayurveda,Rural,No,Moderate,Low,Non-Smoker,Non-Vegetarian
+Female,34,Modern Medicine,Urban,Yes,Moderate,High,Non-Smoker,Vegetarian
+Female,34,Ayurveda,Urban,No,Moderate,Moderate,Smoker,Non-Vegetarian
+Female,34,Ayurveda,Rural,No,High,High,Non-Smoker,Vegetarian
+Male,34,Modern Medicine,Rural,No,High,High,Non-Smoker,Non-Vegetarian
+Male,34,Ayurveda,Urban,No,Moderate,Moderate,Non-Smoker,Vegetarian
+Female,34,Modern Medicine,Rural,No,Moderate,Low,Non-Smoker,Non-Vegetarian
+Female,34,Ayurveda,Urban,Yes,Moderate,Moderate,Non-Smoker,Vegetarian
+Female,34,Modern Medicine,Urban,No,Low,High,Non-Smoker,Non-Vegetarian
+Male,34,Modern Medicine,Rural,Yes,High,Moderate,Smoker,Non-Vegetarian
+Male,34,Ayurveda,Rural,No,Moderate,Low,Smoker,Non-Vegetarian
+Female,34,Modern Medicine,Urban,Yes,Moderate,Moderate,Smoker,Vegetarian
+Male,34,Ayurveda,Rural,No,Low,High,Smoker,Non-Vegetarian
+Male,34,Ayurveda,Rural,Yes,High,High,Non-Smoker,Vegetarian
+Male,34,Ayurveda,Rural,No,Moderate,Low,Smoker,Non-Vegetarian
+Female,34,Modern Medicine,Urban,No,Low,Low,Smoker,Vegetarian
+Female,34,Modern Medicine,Urban,No,Moderate,High,Non-Smoker,Vegetarian
+Female,34,Ayurveda,Rural,Yes,Low,High,Non-Smoker,Non-Vegetarian
+Male,34,Ayurveda,Urban,Yes,Low,Low,Non-Smoker,Vegetarian
+Female,34,Modern Medicine,Rural,Yes,Moderate,Moderate,Non-Smoker,Non-Vegetarian
+Male,34,Ayurveda,Urban,Yes,Moderate,Low,Non-Smoker,Vegetarian
+Male,34,Modern Medicine,Urban,Yes,Moderate,High,Non-Smoker,Vegetarian
+Female,34,Modern Medicine,Urban,No,Moderate,High,Smoker,Non-Vegetarian
+Female,34,Ayurveda,Urban,No,Low,Moderate,Non-Smoker,Non-Vegetarian
+Female,34,Ayurveda,Rural,No,Low,Moderate,Non-Smoker,Vegetarian
+Female,34,Ayurveda,Rural,Yes,High,Low,Non-Smoker,Non-Vegetarian
+Female,34,Modern Medicine,Rural,No,Moderate,Low,Non-Smoker,Vegetarian
+Male,34,Ayurveda,Urban,Yes,Moderate,Low,Non-Smoker,Non-Vegetarian
+Female,34,Modern Medicine,Rural,No,Moderate,Low,Smoker,Vegetarian
+Female,34,Modern Medicine,Urban,No,Low,High,Smoker,Vegetarian
+Female,34,Modern Medicine,Rural,Yes,Low,Low,Non-Smoker,Vegetarian
+Male,35,Ayurveda,Urban,Yes,Low,High,Smoker,Non-Vegetarian
+Male,35,Ayurveda,Urban,No,Low,Moderate,Non-Smoker,Vegetarian
+Male,35,Ayurveda,Rural,Yes,Moderate,Moderate,Non-Smoker,Vegetarian
+Female,35,Ayurveda,Rural,Yes,Moderate,Low,Smoker,Non-Vegetarian
+Female,35,Ayurveda,Rural,No,Low,High,Smoker,Vegetarian
+Male,35,Ayurveda,Urban,No,Low,Low,Smoker,Vegetarian
+Female,35,Ayurveda,Rural,Yes,High,Low,Non-Smoker,Vegetarian
+Male,35,Modern Medicine,Rural,Yes,High,High,Non-Smoker,Non-Vegetarian
+Male,35,Modern Medicine,Urban,Yes,Low,Low,Non-Smoker,Non-Vegetarian
+Male,35,Modern Medicine,Urban,No,Low,High,Non-Smoker,Non-Vegetarian
+Female,35,Ayurveda,Urban,No,Low,Low,Non-Smoker,Vegetarian
+Male,35,Modern Medicine,Rural,No,Moderate,High,Non-Smoker,Vegetarian
+Female,35,Ayurveda,Urban,No,High,Low,Non-Smoker,Non-Vegetarian
+Female,35,Ayurveda,Rural,No,Moderate,Low,Smoker,Vegetarian
+Male,35,Modern Medicine,Rural,No,High,Moderate,Non-Smoker,Non-Vegetarian
+Male,35,Modern Medicine,Urban,No,High,High,Smoker,Non-Vegetarian
+Female,35,Modern Medicine,Urban,Yes,High,High,Smoker,Non-Vegetarian
+Male,35,Modern Medicine,Rural,Yes,Moderate,High,Smoker,Vegetarian
+Male,35,Ayurveda,Rural,No,Low,Low,Smoker,Vegetarian
+Male,35,Ayurveda,Urban,Yes,Low,Low,Non-Smoker,Non-Vegetarian
+Male,35,Ayurveda,Urban,Yes,Low,Moderate,Non-Smoker,Non-Vegetarian
+Female,35,Modern Medicine,Urban,No,Low,Moderate,Non-Smoker,Vegetarian
+Male,35,Ayurveda,Rural,Yes,Low,Moderate,Smoker,Vegetarian
+Male,35,Ayurveda,Rural,Yes,Moderate,High,Non-Smoker,Non-Vegetarian
+Female,35,Ayurveda,Urban,No,High,High,Non-Smoker,Non-Vegetarian
+Female,35,Modern Medicine,Urban,Yes,Low,High,Non-Smoker,Vegetarian
+Male,35,Modern Medicine,Rural,Yes,High,Low,Non-Smoker,Vegetarian
+Male,35,Modern Medicine,Urban,Yes,Moderate,Moderate,Non-Smoker,Non-Vegetarian
+Male,35,Modern Medicine,Urban,Yes,Moderate,Moderate,Non-Smoker,Vegetarian
+Female,35,Ayurveda,Urban,Yes,Moderate,High,Smoker,Vegetarian
+Male,35,Ayurveda,Urban,No,High,Moderate,Non-Smoker,Non-Vegetarian
+Male,35,Ayurveda,Rural,No,Low,Low,Non-Smoker,Vegetarian
+Female,35,Modern Medicine,Rural,Yes,Low,Moderate,Smoker,Vegetarian
+Female,35,Modern Medicine,Urban,No,Moderate,Low,Non-Smoker,Vegetarian
+Female,35,Ayurveda,Rural,Yes,Low,Low,Smoker,Vegetarian
+Male,35,Ayurveda,Rural,Yes,Low,Low,Non-Smoker,Vegetarian
+Female,36,Ayurveda,Urban,No,High,Moderate,Smoker,Vegetarian
+Male,36,Ayurveda,Rural,Yes,Moderate,Low,Non-Smoker,Non-Vegetarian
+Male,36,Ayurveda,Urban,Yes,Low,High,Non-Smoker,Vegetarian
+Female,36,Modern Medicine,Rural,No,Low,Low,Non-Smoker,Non-Vegetarian
+Male,36,Ayurveda,Rural,No,High,Low,Smoker,Vegetarian
+Female,36,Modern Medicine,Urban,No,Low,Moderate,Smoker,Vegetarian
+Male,36,Modern Medicine,Rural,No,High,High,Smoker,Non-Vegetarian
+Female,36,Ayurveda,Urban,Yes,High,Low,Smoker,Vegetarian
+Male,36,Ayurveda,Rural,No,Moderate,High,Non-Smoker,Vegetarian
+Female,36,Modern Medicine,Rural,Yes,Moderate,High,Non-Smoker,Non-Vegetarian
+Female,36,Modern Medicine,Urban,No,Moderate,High,Smoker,Vegetarian
+Female,36,Modern Medicine,Rural,Yes,Low,Low,Non-Smoker,Vegetarian
+Male,36,Ayurveda,Urban,Yes,High,Moderate,Smoker,Vegetarian
+Female,36,Ayurveda,Rural,No,High,High,Non-Smoker,Non-Vegetarian
+Female,36,Modern Medicine,Rural,Yes,Moderate,Moderate,Smoker,Vegetarian
+Male,36,Ayurveda,Rural,No,Moderate,Moderate,Smoker,Non-Vegetarian
+Female,36,Modern Medicine,Urban,Yes,Low,Moderate,Non-Smoker,Non-Vegetarian
+Female,36,Modern Medicine,Urban,No,Moderate,Moderate,Non-Smoker,Non-Vegetarian
+Female,36,Ayurveda,Rural,Yes,Moderate,High,Non-Smoker,Non-Vegetarian
+Male,36,Modern Medicine,Urban,No,Moderate,High,Non-Smoker,Non-Vegetarian
+Male,36,Modern Medicine,Rural,No,High,Low,Non-Smoker,Vegetarian
+Male,36,Modern Medicine,Rural,Yes,Moderate,Low,Non-Smoker,Vegetarian
+Male,36,Ayurveda,Urban,Yes,Moderate,Moderate,Non-Smoker,Vegetarian
+Female,36,Modern Medicine,Urban,Yes,Low,High,Smoker,Vegetarian
+Male,36,Ayurveda,Rural,Yes,Low,High,Smoker,Vegetarian
+Female,36,Modern Medicine,Urban,Yes,Low,Low,Non-Smoker,Non-Vegetarian
+Male,36,Ayurveda,Urban,No,Low,Low,Smoker,Non-Vegetarian
+Female,36,Ayurveda,Urban,Yes,Low,Low,Non-Smoker,Non-Vegetarian
+Male,36,Modern Medicine,Rural,Yes,Low,Low,Non-Smoker,Non-Vegetarian
+Female,36,Ayurveda,Rural,Yes,High,Low,Smoker,Vegetarian
+Female,36,Ayurveda,Rural,Yes,High,Moderate,Smoker,Vegetarian
+Female,36,Modern Medicine,Urban,Yes,Low,High,Smoker,Non-Vegetarian
+Female,36,Modern Medicine,Urban,No,Low,Low,Smoker,Vegetarian
+Female,36,Modern Medicine,Urban,Yes,Low,High,Smoker,Non-Vegetarian
+Female,36,Ayurveda,Rural,Yes,Low,High,Non-Smoker,Vegetarian
+Male,36,Modern Medicine,Rural,Yes,High,Low,Smoker,Vegetarian
+Male,37,Modern Medicine,Urban,Yes,High,Low,Non-Smoker,Vegetarian
+Female,37,Modern Medicine,Urban,No,High,Low,Smoker,Vegetarian
+Female,37,Modern Medicine,Urban,Yes,Moderate,Moderate,Smoker,Vegetarian
+Male,37,Ayurveda,Rural,No,Moderate,High,Non-Smoker,Vegetarian
+Female,37,Modern Medicine,Rural,No,Moderate,High,Smoker,Vegetarian
+Male,37,Ayurveda,Urban,No,Moderate,Moderate,Smoker,Non-Vegetarian
+Male,37,Modern Medicine,Urban,No,Moderate,High,Smoker,Non-Vegetarian
+Male,37,Ayurveda,Urban,Yes,Moderate,High,Non-Smoker,Non-Vegetarian
+Male,37,Ayurveda,Rural,Yes,High,High,Smoker,Non-Vegetarian
+Male,37,Modern Medicine,Urban,Yes,Moderate,Moderate,Non-Smoker,Vegetarian
+Female,37,Modern Medicine,Rural,Yes,Low,Low,Smoker,Non-Vegetarian
+Male,37,Modern Medicine,Urban,Yes,Moderate,Low,Non-Smoker,Vegetarian
+Female,37,Modern Medicine,Urban,No,High,Moderate,Non-Smoker,Non-Vegetarian
+Male,37,Ayurveda,Rural,No,High,Moderate,Non-Smoker,Vegetarian
+Male,37,Modern Medicine,Rural,Yes,Low,Moderate,Non-Smoker,Non-Vegetarian
+Female,37,Ayurveda,Urban,Yes,Low,High,Non-Smoker,Vegetarian
+Male,37,Modern Medicine,Urban,Yes,Low,Moderate,Non-Smoker,Non-Vegetarian
+Male,37,Modern Medicine,Urban,No,Moderate,High,Non-Smoker,Vegetarian
+Female,37,Modern Medicine,Urban,Yes,High,Moderate,Non-Smoker,Non-Vegetarian
+Female,37,Ayurveda,Rural,No,Moderate,High,Smoker,Vegetarian
+Male,37,Ayurveda,Urban,Yes,High,Moderate,Non-Smoker,Vegetarian
+Female,37,Ayurveda,Urban,Yes,Low,High,Smoker,Non-Vegetarian
+Female,37,Modern Medicine,Rural,Yes,Low,Low,Non-Smoker,Vegetarian
+Female,37,Ayurveda,Urban,Yes,Low,Moderate,Non-Smoker,Vegetarian
+Female,37,Ayurveda,Urban,No,Moderate,Moderate,Smoker,Non-Vegetarian
+Female,37,Modern Medicine,Urban,Yes,High,Moderate,Non-Smoker,Vegetarian
+Male,37,Modern Medicine,Rural,Yes,Moderate,Moderate,Non-Smoker,Vegetarian
+Female,37,Ayurveda,Urban,No,High,High,Smoker,Vegetarian
+Female,37,Modern Medicine,Rural,No,Low,Low,Non-Smoker,Non-Vegetarian
+Male,37,Ayurveda,Urban,Yes,Moderate,Moderate,Non-Smoker,Non-Vegetarian
+Female,37,Modern Medicine,Urban,No,High,High,Smoker,Non-Vegetarian
+Male,37,Modern Medicine,Urban,No,Moderate,Moderate,Smoker,Vegetarian
+Female,37,Ayurveda,Urban,No,Low,High,Non-Smoker,Vegetarian
+Female,37,Modern Medicine,Urban,No,Low,Low,Non-Smoker,Non-Vegetarian
+Male,37,Modern Medicine,Rural,No,High,Moderate,Non-Smoker,Vegetarian
+Female,37,Modern Medicine,Urban,Yes,Low,High,Smoker,Non-Vegetarian
+Female,38,Ayurveda,Urban,No,Low,Low,Non-Smoker,Non-Vegetarian
+Male,38,Ayurveda,Urban,No,Moderate,Low,Smoker,Non-Vegetarian
+Male,38,Ayurveda,Rural,No,Low,High,Non-Smoker,Non-Vegetarian
+Female,38,Modern Medicine,Urban,Yes,Low,Moderate,Smoker,Vegetarian
+Female,38,Modern Medicine,Urban,Yes,High,High,Smoker,Non-Vegetarian
+Female,38,Ayurveda,Urban,Yes,High,Low,Non-Smoker,Vegetarian
+Female,38,Ayurveda,Urban,No,High,Moderate,Smoker,Non-Vegetarian
+Male,38,Modern Medicine,Urban,No,High,Low,Non-Smoker,Non-Vegetarian
+Female,38,Ayurveda,Rural,Yes,High,High,Non-Smoker,Vegetarian
+Female,38,Modern Medicine,Urban,No,Moderate,Low,Non-Smoker,Vegetarian
+Female,38,Modern Medicine,Rural,No,Low,High,Smoker,Vegetarian
+Male,38,Modern Medicine,Urban,Yes,High,High,Smoker,Non-Vegetarian
+Female,38,Modern Medicine,Rural,Yes,Moderate,High,Smoker,Vegetarian
+Female,38,Ayurveda,Rural,No,High,Moderate,Smoker,Non-Vegetarian
+Female,38,Ayurveda,Urban,Yes,Moderate,High,Smoker,Non-Vegetarian
+Male,38,Modern Medicine,Rural,No,Moderate,Moderate,Smoker,Vegetarian
+Female,38,Modern Medicine,Rural,No,Low,Moderate,Non-Smoker,Non-Vegetarian
+Male,38,Modern Medicine,Rural,No,High,Low,Non-Smoker,Vegetarian
+Female,38,Modern Medicine,Rural,No,High,High,Smoker,Vegetarian
+Male,38,Modern Medicine,Rural,No,Moderate,Low,Smoker,Non-Vegetarian
+Male,38,Modern Medicine,Rural,No,High,Moderate,Non-Smoker,Vegetarian
+Male,38,Modern Medicine,Rural,Yes,Low,Moderate,Smoker,Non-Vegetarian
+Female,38,Ayurveda,Urban,Yes,High,Low,Smoker,Non-Vegetarian
+Male,38,Modern Medicine,Urban,No,Moderate,Low,Smoker,Non-Vegetarian
+Female,38,Modern Medicine,Rural,Yes,Low,Low,Non-Smoker,Non-Vegetarian
+Female,38,Modern Medicine,Rural,No,Low,Low,Non-Smoker,Non-Vegetarian
+Female,38,Modern Medicine,Urban,Yes,Moderate,Low,Non-Smoker,Vegetarian
+Female,38,Modern Medicine,Urban,No,High,Low,Non-Smoker,Non-Vegetarian
+Female,38,Modern Medicine,Rural,No,Low,Low,Smoker,Non-Vegetarian
+Female,38,Ayurveda,Urban,Yes,Moderate,Low,Non-Smoker,Non-Vegetarian
+Male,38,Ayurveda,Rural,No,Low,Low,Smoker,Non-Vegetarian
+Male,38,Modern Medicine,Rural,No,High,Low,Non-Smoker,Non-Vegetarian
+Female,38,Modern Medicine,Urban,No,High,Moderate,Smoker,Non-Vegetarian
+Female,38,Modern Medicine,Rural,Yes,Low,Low,Non-Smoker,Non-Vegetarian
+Female,38,Modern Medicine,Rural,No,Moderate,High,Smoker,Vegetarian
+Male,39,Ayurveda,Urban,Yes,Moderate,Low,Smoker,Vegetarian
+Male,39,Modern Medicine,Rural,No,High,High,Smoker,Vegetarian
+Female,39,Modern Medicine,Urban,No,High,Moderate,Smoker,Vegetarian
+Male,39,Modern Medicine,Rural,No,Moderate,Low,Non-Smoker,Vegetarian
+Male,39,Ayurveda,Rural,No,Moderate,High,Non-Smoker,Non-Vegetarian
+Male,39,Modern Medicine,Rural,Yes,Low,Moderate,Non-Smoker,Vegetarian
+Female,39,Modern Medicine,Urban,No,Low,Low,Non-Smoker,Non-Vegetarian
+Male,39,Modern Medicine,Urban,Yes,High,Low,Smoker,Non-Vegetarian
+Male,39,Ayurveda,Urban,Yes,Moderate,Moderate,Smoker,Vegetarian
+Male,39,Ayurveda,Rural,Yes,Low,Low,Smoker,Vegetarian
+Male,39,Ayurveda,Urban,Yes,High,Low,Non-Smoker,Vegetarian
+Male,39,Modern Medicine,Urban,No,Low,Moderate,Non-Smoker,Vegetarian
+Male,39,Ayurveda,Rural,Yes,Low,High,Smoker,Non-Vegetarian
+Female,39,Modern Medicine,Urban,Yes,High,Low,Smoker,Non-Vegetarian
+Male,39,Modern Medicine,Rural,No,Moderate,Low,Smoker,Vegetarian
+Female,39,Modern Medicine,Rural,Yes,Low,Low,Smoker,Vegetarian
+Male,39,Modern Medicine,Urban,Yes,Low,Moderate,Smoker,Non-Vegetarian
+Male,39,Ayurveda,Rural,No,Moderate,Low,Non-Smoker,Non-Vegetarian
+Female,39,Modern Medicine,Rural,Yes,Moderate,Moderate,Smoker,Non-Vegetarian
+Male,39,Ayurveda,Urban,No,High,Moderate,Smoker,Non-Vegetarian
+Male,39,Modern Medicine,Rural,No,Moderate,Moderate,Non-Smoker,Vegetarian
+Male,39,Ayurveda,Rural,No,High,Moderate,Smoker,Vegetarian
+Female,39,Ayurveda,Urban,No,Moderate,Moderate,Non-Smoker,Vegetarian
+Female,39,Modern Medicine,Rural,No,High,Low,Non-Smoker,Vegetarian
+Male,39,Modern Medicine,Rural,No,Low,High,Smoker,Non-Vegetarian
+Female,39,Ayurveda,Urban,No,Low,High,Smoker,Vegetarian
+Male,39,Ayurveda,Rural,Yes,High,High,Non-Smoker,Vegetarian
+Female,39,Modern Medicine,Rural,No,Moderate,Low,Non-Smoker,Non-Vegetarian
+Female,39,Ayurveda,Urban,No,High,High,Non-Smoker,Non-Vegetarian
+Male,39,Modern Medicine,Urban,Yes,Moderate,Moderate,Non-Smoker,Non-Vegetarian
+Female,39,Ayurveda,Urban,Yes,Low,Low,Non-Smoker,Non-Vegetarian
+Female,39,Ayurveda,Urban,No,Moderate,Moderate,Non-Smoker,Vegetarian
+Female,39,Ayurveda,Rural,No,High,High,Smoker,Vegetarian
+Female,39,Ayurveda,Urban,No,High,High,Smoker,Non-Vegetarian
+Male,39,Modern Medicine,Urban,Yes,Moderate,Low,Non-Smoker,Vegetarian
+Male,39,Ayurveda,Rural,No,High,Moderate,Non-Smoker,Non-Vegetarian
+Female,40,Modern Medicine,Urban,No,High,High,Smoker,Vegetarian
+Female,40,Modern Medicine,Urban,No,Low,High,Smoker,Vegetarian
+Female,40,Ayurveda,Rural,Yes,Moderate,High,Non-Smoker,Non-Vegetarian
+Male,40,Modern Medicine,Rural,No,Low,High,Smoker,Non-Vegetarian
+Female,40,Modern Medicine,Urban,Yes,High,High,Non-Smoker,Non-Vegetarian
+Female,40,Modern Medicine,Rural,Yes,High,Moderate,Non-Smoker,Non-Vegetarian
+Female,40,Ayurveda,Urban,No,High,Moderate,Non-Smoker,Vegetarian
+Female,40,Modern Medicine,Urban,No,Moderate,Moderate,Smoker,Non-Vegetarian
+Male,40,Ayurveda,Urban,Yes,High,Low,Non-Smoker,Vegetarian
+Male,40,Ayurveda,Urban,Yes,High,Low,Smoker,Non-Vegetarian
+Male,40,Ayurveda,Rural,No,Low,Low,Non-Smoker,Non-Vegetarian
+Female,40,Modern Medicine,Urban,Yes,High,Moderate,Non-Smoker,Vegetarian
+Male,40,Modern Medicine,Urban,No,Low,High,Smoker,Vegetarian
+Male,40,Ayurveda,Rural,Yes,Moderate,High,Non-Smoker,Non-Vegetarian
+Female,40,Modern Medicine,Urban,Yes,Moderate,Low,Smoker,Non-Vegetarian
+Female,40,Modern Medicine,Urban,Yes,Moderate,Low,Smoker,Vegetarian
+Female,40,Ayurveda,Urban,Yes,Low,Moderate,Smoker,Non-Vegetarian
+Male,40,Modern Medicine,Rural,No,Low,Moderate,Non-Smoker,Non-Vegetarian
+Male,40,Ayurveda,Rural,Yes,High,Low,Non-Smoker,Non-Vegetarian
+Female,40,Ayurveda,Urban,No,Low,Moderate,Non-Smoker,Vegetarian
+Male,40,Ayurveda,Urban,No,Moderate,High,Smoker,Non-Vegetarian
+Male,40,Modern Medicine,Rural,Yes,Low,Low,Non-Smoker,Non-Vegetarian
+Female,40,Ayurveda,Rural,Yes,Moderate,Moderate,Smoker,Non-Vegetarian
+Male,40,Modern Medicine,Rural,Yes,Low,Moderate,Smoker,Non-Vegetarian
+Female,40,Modern Medicine,Urban,Yes,Moderate,High,Non-Smoker,Vegetarian
+Male,40,Modern Medicine,Urban,No,Moderate,Low,Non-Smoker,Vegetarian
+Female,40,Ayurveda,Rural,No,Low,High,Non-Smoker,Non-Vegetarian
+Female,40,Modern Medicine,Rural,No,Low,Low,Non-Smoker,Vegetarian
+Male,40,Modern Medicine,Urban,Yes,High,High,Non-Smoker,Non-Vegetarian
+Male,40,Modern Medicine,Urban,No,High,Moderate,Smoker,Non-Vegetarian
+Female,40,Modern Medicine,Urban,No,Low,Low,Smoker,Non-Vegetarian
+Female,40,Ayurveda,Rural,No,High,Low,Smoker,Vegetarian
+Female,40,Modern Medicine,Rural,No,Moderate,High,Smoker,Vegetarian
+Male,40,Modern Medicine,Rural,No,Low,Moderate,Smoker,Non-Vegetarian
+Male,40,Ayurveda,Rural,No,Moderate,Low,Non-Smoker,Non-Vegetarian
+Female,41,Ayurveda,Rural,Yes,High,Moderate,Non-Smoker,Vegetarian
+Female,41,Ayurveda,Rural,No,High,Moderate,Non-Smoker,Vegetarian
+Male,41,Modern Medicine,Urban,Yes,Moderate,Moderate,Non-Smoker,Vegetarian
+Female,41,Modern Medicine,Rural,No,High,Moderate,Smoker,Vegetarian
+Male,41,Ayurveda,Rural,No,High,Low,Non-Smoker,Vegetarian
+Male,41,Modern Medicine,Urban,Yes,Moderate,High,Smoker,Non-Vegetarian
+Male,41,Modern Medicine,Urban,No,High,High,Smoker,Vegetarian
+Female,41,Modern Medicine,Rural,Yes,Low,Low,Smoker,Non-Vegetarian
+Female,41,Ayurveda,Rural,No,Low,High,Non-Smoker,Vegetarian
+Female,41,Modern Medicine,Rural,No,Moderate,Low,Smoker,Vegetarian
+Female,41,Modern Medicine,Urban,Yes,Low,High,Smoker,Vegetarian
+Female,41,Modern Medicine,Urban,Yes,Low,High,Smoker,Non-Vegetarian
+Female,41,Ayurveda,Rural,Yes,Moderate,High,Non-Smoker,Vegetarian
+Male,41,Modern Medicine,Urban,Yes,High,High,Non-Smoker,Vegetarian
+Male,41,Modern Medicine,Urban,Yes,High,High,Smoker,Non-Vegetarian
+Female,41,Ayurveda,Rural,Yes,Moderate,High,Smoker,Vegetarian
+Male,41,Modern Medicine,Urban,No,High,Low,Non-Smoker,Non-Vegetarian
+Female,41,Modern Medicine,Urban,No,High,Moderate,Smoker,Non-Vegetarian
+Female,41,Modern Medicine,Rural,Yes,Moderate,Moderate,Non-Smoker,Non-Vegetarian
+Female,41,Modern Medicine,Rural,Yes,High,Moderate,Non-Smoker,Vegetarian
+Male,41,Ayurveda,Rural,No,High,High,Non-Smoker,Vegetarian
+Female,41,Modern Medicine,Rural,No,High,Low,Smoker,Non-Vegetarian
+Female,41,Ayurveda,Rural,Yes,Low,High,Non-Smoker,Vegetarian
+Female,41,Ayurveda,Rural,No,High,Low,Smoker,Vegetarian
+Female,41,Modern Medicine,Rural,No,High,Low,Smoker,Vegetarian
+Male,41,Modern Medicine,Urban,Yes,High,Low,Smoker,Non-Vegetarian
+Male,41,Ayurveda,Urban,Yes,Moderate,Low,Smoker,Non-Vegetarian
+Female,41,Modern Medicine,Rural,Yes,Low,High,Smoker,Non-Vegetarian
+Female,41,Ayurveda,Rural,Yes,Low,Low,Non-Smoker,Vegetarian
+Female,41,Modern Medicine,Rural,Yes,High,High,Smoker,Non-Vegetarian
+Male,41,Modern Medicine,Rural,No,Low,Low,Smoker,Non-Vegetarian
+Male,41,Modern Medicine,Urban,Yes,Moderate,Low,Smoker,Vegetarian
+Female,41,Ayurveda,Rural,No,Low,High,Smoker,Vegetarian
+Male,41,Modern Medicine,Urban,Yes,Low,High,Smoker,Non-Vegetarian
+Female,42,Modern Medicine,Rural,No,High,High,Smoker,Non-Vegetarian
+Male,42,Ayurveda,Urban,No,Moderate,High,Smoker,Vegetarian
+Male,42,Modern Medicine,Urban,Yes,High,High,Smoker,Non-Vegetarian
+Female,42,Ayurveda,Urban,No,Moderate,Low,Smoker,Vegetarian
+Female,42,Modern Medicine,Urban,Yes,High,Low,Smoker,Non-Vegetarian
+Female,42,Modern Medicine,Rural,No,Low,Low,Non-Smoker,Non-Vegetarian
+Male,42,Modern Medicine,Urban,No,Low,Moderate,Smoker,Vegetarian
+Male,42,Modern Medicine,Rural,No,High,Moderate,Non-Smoker,Non-Vegetarian
+Female,42,Modern Medicine,Urban,Yes,High,High,Smoker,Non-Vegetarian
+Female,42,Modern Medicine,Urban,Yes,Moderate,Low,Smoker,Non-Vegetarian
+Female,42,Modern Medicine,Urban,No,Moderate,Low,Smoker,Vegetarian
+Male,42,Modern Medicine,Rural,Yes,Moderate,High,Non-Smoker,Vegetarian
+Female,42,Ayurveda,Urban,Yes,High,Low,Non-Smoker,Vegetarian
+Female,42,Ayurveda,Urban,No,Low,Moderate,Non-Smoker,Non-Vegetarian
+Male,42,Modern Medicine,Rural,Yes,Low,Moderate,Non-Smoker,Non-Vegetarian
+Female,42,Modern Medicine,Rural,No,Moderate,High,Non-Smoker,Non-Vegetarian
+Male,42,Ayurveda,Urban,Yes,High,Low,Smoker,Non-Vegetarian
+Male,42,Ayurveda,Rural,No,Moderate,High,Smoker,Non-Vegetarian
+Male,42,Ayurveda,Urban,No,High,Moderate,Non-Smoker,Vegetarian
+Male,42,Modern Medicine,Rural,Yes,Low,High,Non-Smoker,Non-Vegetarian
+Female,42,Modern Medicine,Urban,Yes,Moderate,Moderate,Smoker,Vegetarian
+Female,42,Ayurveda,Urban,No,Moderate,High,Non-Smoker,Non-Vegetarian
+Male,42,Ayurveda,Rural,Yes,Low,Moderate,Smoker,Non-Vegetarian
+Female,42,Ayurveda,Urban,Yes,Low,Low,Non-Smoker,Non-Vegetarian
+Female,42,Modern Medicine,Rural,No,Moderate,Low,Smoker,Non-Vegetarian
+Male,42,Ayurveda,Urban,Yes,High,High,Smoker,Vegetarian
+Female,42,Ayurveda,Urban,Yes,Moderate,Moderate,Smoker,Non-Vegetarian
+Female,42,Modern Medicine,Urban,No,Moderate,High,Non-Smoker,Non-Vegetarian
+Female,42,Modern Medicine,Rural,No,Moderate,Low,Non-Smoker,Vegetarian
+Male,42,Modern Medicine,Urban,No,Low,Moderate,Smoker,Vegetarian
+Male,42,Ayurveda,Rural,No,Moderate,Low,Non-Smoker,Vegetarian
+Female,42,Ayurveda,Urban,No,Moderate,High,Smoker,Vegetarian
+Female,42,Modern Medicine,Urban,Yes,Low,Moderate,Non-Smoker,Non-Vegetarian
+Male,42,Modern Medicine,Rural,No,High,Moderate,Non-Smoker,Vegetarian
+Male,42,Ayurveda,Urban,Yes,High,Low,Non-Smoker,Vegetarian
+Male,43,Modern Medicine,Rural,Yes,Moderate,Low,Non-Smoker,Vegetarian
+Female,43,Ayurveda,Urban,No,High,Moderate,Non-Smoker,Vegetarian
+Male,43,Ayurveda,Urban,Yes,High,Moderate,Non-Smoker,Non-Vegetarian
+Male,43,Modern Medicine,Rural,Yes,High,Low,Smoker,Vegetarian
+Female,43,Modern Medicine,Urban,Yes,Low,High,Smoker,Non-Vegetarian
+Female,43,Modern Medicine,Rural,Yes,High,Low,Non-Smoker,Non-Vegetarian
+Male,43,Modern Medicine,Rural,Yes,High,Moderate,Non-Smoker,Non-Vegetarian
+Male,43,Modern Medicine,Urban,Yes,High,High,Non-Smoker,Non-Vegetarian
+Male,43,Ayurveda,Rural,No,High,Low,Smoker,Non-Vegetarian
+Female,43,Ayurveda,Rural,No,Low,Low,Non-Smoker,Non-Vegetarian
+Female,43,Ayurveda,Urban,Yes,Low,Moderate,Smoker,Vegetarian
+Female,43,Modern Medicine,Rural,No,High,Low,Smoker,Non-Vegetarian
+Male,43,Ayurveda,Urban,Yes,Moderate,Low,Non-Smoker,Vegetarian
+Male,43,Modern Medicine,Rural,Yes,Low,Moderate,Non-Smoker,Non-Vegetarian
+Male,43,Ayurveda,Urban,Yes,Moderate,High,Non-Smoker,Non-Vegetarian
+Male,43,Modern Medicine,Rural,Yes,High,Moderate,Smoker,Vegetarian
+Female,43,Ayurveda,Urban,Yes,Low,High,Smoker,Vegetarian
+Male,43,Ayurveda,Urban,No,Moderate,High,Smoker,Vegetarian
+Male,43,Modern Medicine,Urban,Yes,Moderate,High,Non-Smoker,Non-Vegetarian
+Male,43,Modern Medicine,Rural,Yes,Moderate,Moderate,Non-Smoker,Non-Vegetarian
+Male,43,Modern Medicine,Urban,Yes,Moderate,Low,Non-Smoker,Non-Vegetarian
+Female,43,Modern Medicine,Rural,Yes,Low,High,Non-Smoker,Non-Vegetarian
+Female,43,Ayurveda,Urban,No,Moderate,Low,Non-Smoker,Non-Vegetarian
+Male,43,Modern Medicine,Rural,No,Low,Moderate,Smoker,Vegetarian
+Male,43,Modern Medicine,Rural,No,Moderate,Low,Smoker,Non-Vegetarian
+Female,43,Ayurveda,Urban,Yes,High,Moderate,Smoker,Non-Vegetarian
+Male,43,Ayurveda,Rural,Yes,Low,Moderate,Non-Smoker,Non-Vegetarian
+Female,43,Ayurveda,Rural,No,Moderate,Low,Smoker,Non-Vegetarian
+Female,43,Ayurveda,Rural,Yes,Low,High,Smoker,Non-Vegetarian
+Male,43,Ayurveda,Urban,No,High,Low,Smoker,Vegetarian
+Male,43,Modern Medicine,Urban,No,Moderate,High,Non-Smoker,Vegetarian
+Male,43,Modern Medicine,Rural,No,Moderate,High,Non-Smoker,Non-Vegetarian
+Female,43,Ayurveda,Urban,No,Moderate,Moderate,Smoker,Non-Vegetarian
+Female,43,Modern Medicine,Rural,Yes,High,Moderate,Smoker,Vegetarian
+Male,43,Ayurveda,Urban,No,Moderate,Low,Smoker,Non-Vegetarian
+Female,43,Ayurveda,Rural,No,Moderate,Low,Smoker,Vegetarian
+Male,44,Modern Medicine,Urban,Yes,Low,Low,Smoker,Vegetarian
+Female,44,Ayurveda,Rural,No,Moderate,Moderate,Non-Smoker,Vegetarian
+Female,44,Modern Medicine,Rural,No,Low,High,Non-Smoker,Non-Vegetarian
+Male,44,Ayurveda,Urban,Yes,Low,Low,Non-Smoker,Vegetarian
+Male,44,Ayurveda,Urban,Yes,High,Moderate,Non-Smoker,Non-Vegetarian
+Female,44,Ayurveda,Rural,No,Moderate,Low,Non-Smoker,Non-Vegetarian
+Female,44,Modern Medicine,Rural,Yes,Moderate,High,Non-Smoker,Vegetarian
+Male,44,Ayurveda,Urban,No,High,Moderate,Non-Smoker,Non-Vegetarian
+Male,44,Modern Medicine,Rural,Yes,Low,High,Smoker,Vegetarian
+Female,44,Modern Medicine,Rural,No,Moderate,High,Smoker,Vegetarian
+Male,44,Modern Medicine,Rural,Yes,Low,Moderate,Smoker,Non-Vegetarian
+Female,44,Ayurveda,Rural,No,Moderate,Moderate,Smoker,Vegetarian
+Female,44,Ayurveda,Urban,Yes,Moderate,High,Smoker,Vegetarian
+Female,44,Modern Medicine,Rural,No,Low,Low,Smoker,Vegetarian
+Male,44,Modern Medicine,Urban,No,High,High,Non-Smoker,Non-Vegetarian
+Female,44,Modern Medicine,Urban,No,Moderate,Low,Smoker,Non-Vegetarian
+Female,44,Modern Medicine,Rural,Yes,High,Moderate,Smoker,Vegetarian
+Female,44,Ayurveda,Urban,Yes,High,Moderate,Non-Smoker,Non-Vegetarian
+Male,44,Modern Medicine,Rural,No,Moderate,Low,Non-Smoker,Vegetarian
+Male,44,Ayurveda,Urban,Yes,Low,Low,Non-Smoker,Non-Vegetarian
+Male,44,Ayurveda,Urban,No,High,Moderate,Smoker,Non-Vegetarian
+Female,44,Modern Medicine,Urban,No,High,Moderate,Smoker,Vegetarian
+Male,44,Ayurveda,Rural,No,High,Low,Non-Smoker,Vegetarian
+Male,44,Ayurveda,Urban,No,Low,Moderate,Non-Smoker,Non-Vegetarian
+Female,44,Ayurveda,Rural,Yes,Low,Moderate,Smoker,Vegetarian
+Female,44,Ayurveda,Urban,No,Low,Low,Smoker,Non-Vegetarian
+Female,44,Modern Medicine,Rural,No,Moderate,High,Smoker,Vegetarian
+Male,44,Ayurveda,Rural,No,Moderate,Low,Smoker,Vegetarian
+Male,44,Modern Medicine,Rural,Yes,High,Moderate,Non-Smoker,Non-Vegetarian
+Male,44,Ayurveda,Urban,Yes,Low,Moderate,Non-Smoker,Vegetarian
+Male,44,Modern Medicine,Rural,No,High,Moderate,Smoker,Non-Vegetarian
+Female,44,Modern Medicine,Rural,Yes,High,Low,Non-Smoker,Non-Vegetarian
+Female,44,Modern Medicine,Rural,No,High,Low,Smoker,Vegetarian
+Male,44,Ayurveda,Urban,Yes,Moderate,Moderate,Non-Smoker,Non-Vegetarian
+Female,44,Modern Medicine,Urban,No,Low,High,Smoker,Vegetarian
+Male,44,Modern Medicine,Urban,Yes,High,Moderate,Non-Smoker,Non-Vegetarian
+Female,45,Modern Medicine,Urban,Yes,Moderate,High,Smoker,Vegetarian
+Female,45,Ayurveda,Urban,No,High,Moderate,Smoker,Vegetarian
+Female,45,Modern Medicine,Rural,Yes,High,High,Non-Smoker,Vegetarian
+Male,45,Modern Medicine,Rural,Yes,High,High,Non-Smoker,Non-Vegetarian
+Female,45,Modern Medicine,Urban,Yes,Moderate,Low,Non-Smoker,Vegetarian
+Female,45,Ayurveda,Urban,Yes,Low,High,Non-Smoker,Vegetarian
+Male,45,Ayurveda,Urban,Yes,High,Low,Smoker,Non-Vegetarian
+Male,45,Modern Medicine,Urban,No,Low,Moderate,Smoker,Vegetarian
+Female,45,Modern Medicine,Rural,Yes,High,Low,Smoker,Vegetarian
+Male,45,Ayurveda,Urban,No,High,Low,Smoker,Non-Vegetarian
+Male,45,Ayurveda,Rural,Yes,Low,Moderate,Smoker,Non-Vegetarian
+Male,45,Modern Medicine,Urban,No,Moderate,High,Non-Smoker,Vegetarian
+Female,45,Modern Medicine,Urban,No,High,Low,Non-Smoker,Non-Vegetarian
+Female,45,Ayurveda,Urban,Yes,Low,Moderate,Smoker,Vegetarian
+Male,45,Ayurveda,Rural,No,Moderate,Low,Smoker,Non-Vegetarian
+Female,45,Ayurveda,Urban,Yes,Moderate,High,Non-Smoker,Vegetarian
+Male,45,Modern Medicine,Rural,No,High,Moderate,Non-Smoker,Vegetarian
+Male,45,Ayurveda,Rural,Yes,Moderate,Low,Smoker,Non-Vegetarian
+Female,45,Modern Medicine,Urban,No,Low,Moderate,Smoker,Vegetarian
+Male,45,Modern Medicine,Urban,Yes,Moderate,Moderate,Smoker,Vegetarian
+Male,45,Ayurveda,Urban,No,Low,Moderate,Smoker,Non-Vegetarian
+Male,45,Ayurveda,Urban,Yes,Low,Moderate,Non-Smoker,Vegetarian
+Female,45,Modern Medicine,Rural,Yes,Low,Moderate,Smoker,Vegetarian
+Female,45,Ayurveda,Rural,No,High,Moderate,Non-Smoker,Non-Vegetarian
+Female,45,Modern Medicine,Rural,No,High,High,Smoker,Vegetarian
+Male,45,Ayurveda,Rural,Yes,High,High,Non-Smoker,Non-Vegetarian
+Male,45,Ayurveda,Urban,Yes,Low,Low,Smoker,Non-Vegetarian
+Male,45,Ayurveda,Rural,No,High,Moderate,Non-Smoker,Non-Vegetarian
+Female,45,Ayurveda,Urban,Yes,Low,Moderate,Smoker,Non-Vegetarian
+Female,45,Ayurveda,Rural,Yes,High,High,Smoker,Vegetarian
+Female,45,Ayurveda,Urban,Yes,Moderate,Low,Smoker,Non-Vegetarian
+Female,45,Ayurveda,Rural,No,Low,Low,Non-Smoker,Vegetarian
+Male,45,Modern Medicine,Rural,No,High,Moderate,Smoker,Vegetarian
+Male,45,Ayurveda,Urban,No,High,High,Non-Smoker,Non-Vegetarian
+Female,45,Modern Medicine,Urban,Yes,High,High,Smoker,Non-Vegetarian
+Female,46,Ayurveda,Rural,No,Moderate,High,Non-Smoker,Non-Vegetarian
+Female,46,Ayurveda,Urban,No,High,Low,Non-Smoker,Non-Vegetarian
+Female,46,Modern Medicine,Urban,Yes,High,Moderate,Non-Smoker,Non-Vegetarian
+Female,46,Modern Medicine,Rural,No,Moderate,Moderate,Non-Smoker,Non-Vegetarian
+Male,46,Modern Medicine,Rural,No,Moderate,High,Non-Smoker,Non-Vegetarian
+Male,46,Modern Medicine,Rural,Yes,Low,High,Smoker,Non-Vegetarian
+Male,46,Modern Medicine,Urban,Yes,High,Moderate,Smoker,Vegetarian
+Male,46,Ayurveda,Rural,No,Moderate,High,Smoker,Non-Vegetarian
+Female,46,Ayurveda,Urban,Yes,High,Moderate,Smoker,Vegetarian
+Male,46,Ayurveda,Rural,No,Low,High,Non-Smoker,Non-Vegetarian
+Female,46,Ayurveda,Rural,Yes,Low,High,Smoker,Vegetarian
+Male,46,Ayurveda,Rural,No,High,High,Non-Smoker,Vegetarian
+Female,46,Modern Medicine,Urban,Yes,Moderate,High,Smoker,Vegetarian
+Male,46,Ayurveda,Rural,No,High,Low,Smoker,Vegetarian
+Male,46,Modern Medicine,Rural,No,Moderate,Moderate,Smoker,Non-Vegetarian
+Male,46,Modern Medicine,Urban,Yes,High,Low,Non-Smoker,Non-Vegetarian
+Male,46,Ayurveda,Rural,No,High,Low,Smoker,Non-Vegetarian
+Female,46,Modern Medicine,Urban,No,Moderate,Moderate,Smoker,Vegetarian
+Female,46,Ayurveda,Urban,Yes,Moderate,Low,Non-Smoker,Vegetarian
+Male,46,Modern Medicine,Urban,No,Low,Moderate,Smoker,Non-Vegetarian
+Female,46,Ayurveda,Rural,No,Low,Low,Smoker,Vegetarian
+Male,46,Ayurveda,Rural,No,High,Moderate,Non-Smoker,Non-Vegetarian
+Male,46,Ayurveda,Urban,No,High,Moderate,Non-Smoker,Non-Vegetarian
+Male,46,Ayurveda,Rural,No,Low,Low,Non-Smoker,Vegetarian
+Female,46,Modern Medicine,Urban,No,High,Moderate,Smoker,Vegetarian
+Female,46,Ayurveda,Rural,No,Low,Low,Non-Smoker,Vegetarian
+Male,46,Ayurveda,Rural,Yes,Moderate,High,Smoker,Non-Vegetarian
+Male,46,Modern Medicine,Rural,No,Low,Low,Smoker,Vegetarian
+Female,46,Modern Medicine,Rural,Yes,High,Low,Non-Smoker,Vegetarian
+Male,46,Ayurveda,Urban,Yes,High,Low,Smoker,Non-Vegetarian
+Male,46,Ayurveda,Urban,No,High,Moderate,Smoker,Vegetarian
+Female,46,Modern Medicine,Urban,No,Low,Low,Non-Smoker,Vegetarian
+Male,46,Ayurveda,Rural,Yes,Moderate,High,Non-Smoker,Non-Vegetarian
+Female,46,Modern Medicine,Rural,No,Low,High,Smoker,Vegetarian
+Male,46,Modern Medicine,Rural,Yes,High,Low,Smoker,Vegetarian
+Male,46,Ayurveda,Rural,Yes,Low,High,Non-Smoker,Non-Vegetarian
+Male,47,Ayurveda,Rural,No,Low,Moderate,Non-Smoker,Vegetarian
+Male,47,Modern Medicine,Rural,Yes,High,High,Non-Smoker,Non-Vegetarian
+Male,47,Modern Medicine,Urban,No,Low,Low,Non-Smoker,Non-Vegetarian
+Female,47,Ayurveda,Rural,No,High,High,Non-Smoker,Vegetarian
+Male,47,Ayurveda,Rural,No,Low,Low,Smoker,Non-Vegetarian
+Male,47,Ayurveda,Urban,No,High,Moderate,Non-Smoker,Non-Vegetarian
+Female,47,Ayurveda,Rural,No,Low,Moderate,Smoker,Vegetarian
+Male,47,Ayurveda,Urban,No,Moderate,Low,Non-Smoker,Vegetarian
+Female,47,Modern Medicine,Rural,No,Low,High,Non-Smoker,Non-Vegetarian
+Male,47,Modern Medicine,Urban,Yes,Low,Low,Non-Smoker,Non-Vegetarian
+Male,47,Ayurveda,Urban,Yes,Low,Low,Non-Smoker,Vegetarian
+Female,47,Modern Medicine,Rural,Yes,High,Moderate,Smoker,Vegetarian
+Male,47,Ayurveda,Urban,Yes,Moderate,High,Smoker,Vegetarian
+Female,47,Ayurveda,Rural,No,Low,Low,Smoker,Vegetarian
+Male,47,Modern Medicine,Urban,No,Moderate,Moderate,Non-Smoker,Vegetarian
+Male,47,Ayurveda,Urban,No,Moderate,Moderate,Non-Smoker,Vegetarian
+Male,47,Modern Medicine,Rural,Yes,Moderate,High,Smoker,Non-Vegetarian
+Female,47,Ayurveda,Rural,Yes,Low,High,Smoker,Non-Vegetarian
+Male,47,Modern Medicine,Urban,Yes,Moderate,High,Smoker,Vegetarian
+Female,47,Ayurveda,Urban,No,Low,Low,Smoker,Non-Vegetarian
+Female,47,Modern Medicine,Rural,No,Moderate,Low,Non-Smoker,Non-Vegetarian
+Male,47,Modern Medicine,Urban,No,Moderate,High,Non-Smoker,Vegetarian
+Male,47,Modern Medicine,Urban,No,Moderate,Low,Non-Smoker,Non-Vegetarian
+Male,47,Ayurveda,Urban,Yes,Moderate,Low,Non-Smoker,Non-Vegetarian
+Female,47,Modern Medicine,Rural,Yes,Moderate,High,Smoker,Non-Vegetarian
+Female,47,Ayurveda,Rural,Yes,Moderate,Low,Non-Smoker,Non-Vegetarian
+Male,47,Modern Medicine,Urban,Yes,High,Moderate,Non-Smoker,Vegetarian
+Female,47,Ayurveda,Rural,No,Moderate,High,Non-Smoker,Vegetarian
+Female,47,Ayurveda,Rural,No,Low,High,Smoker,Non-Vegetarian
+Male,47,Modern Medicine,Urban,No,Moderate,Moderate,Non-Smoker,Non-Vegetarian
+Female,47,Modern Medicine,Rural,Yes,High,Moderate,Non-Smoker,Vegetarian
+Male,47,Ayurveda,Urban,No,Moderate,High,Non-Smoker,Non-Vegetarian
+Female,47,Modern Medicine,Rural,Yes,Low,Low,Non-Smoker,Non-Vegetarian
+Male,47,Ayurveda,Urban,Yes,Low,Low,Non-Smoker,Vegetarian
+Male,47,Ayurveda,Rural,Yes,High,High,Non-Smoker,Vegetarian
+Male,48,Modern Medicine,Urban,No,Moderate,High,Smoker,Non-Vegetarian
+Male,48,Ayurveda,Urban,Yes,High,High,Non-Smoker,Non-Vegetarian
+Male,48,Ayurveda,Rural,No,High,Low,Smoker,Vegetarian
+Female,48,Modern Medicine,Rural,No,Low,High,Non-Smoker,Non-Vegetarian
+Female,48,Ayurveda,Urban,Yes,High,Low,Non-Smoker,Vegetarian
+Male,48,Ayurveda,Rural,Yes,High,Low,Smoker,Non-Vegetarian
+Female,48,Modern Medicine,Rural,No,Moderate,Moderate,Non-Smoker,Non-Vegetarian
+Female,48,Ayurveda,Rural,Yes,High,High,Smoker,Non-Vegetarian
+Female,48,Modern Medicine,Rural,No,Moderate,Moderate,Smoker,Vegetarian
+Female,48,Ayurveda,Urban,Yes,Moderate,High,Smoker,Vegetarian
+Female,48,Ayurveda,Urban,No,Low,High,Smoker,Non-Vegetarian
+Female,48,Ayurveda,Urban,Yes,Low,Low,Non-Smoker,Vegetarian
+Male,48,Modern Medicine,Urban,No,Moderate,Low,Smoker,Non-Vegetarian
+Male,48,Modern Medicine,Urban,Yes,High,Moderate,Non-Smoker,Vegetarian
+Female,48,Modern Medicine,Urban,Yes,High,High,Non-Smoker,Non-Vegetarian
+Male,48,Ayurveda,Rural,Yes,High,Low,Non-Smoker,Vegetarian
+Female,48,Modern Medicine,Rural,No,Low,High,Non-Smoker,Non-Vegetarian
+Male,48,Ayurveda,Rural,Yes,High,Moderate,Non-Smoker,Non-Vegetarian
+Female,48,Ayurveda,Rural,No,High,High,Non-Smoker,Non-Vegetarian
+Female,48,Ayurveda,Rural,Yes,High,Moderate,Non-Smoker,Vegetarian
+Female,48,Ayurveda,Urban,Yes,Low,Moderate,Smoker,Vegetarian
+Female,48,Ayurveda,Rural,Yes,High,Low,Smoker,Vegetarian
+Male,48,Ayurveda,Urban,Yes,High,Low,Non-Smoker,Non-Vegetarian
+Male,48,Ayurveda,Rural,Yes,High,Moderate,Smoker,Non-Vegetarian
+Female,48,Modern Medicine,Rural,Yes,Moderate,Moderate,Non-Smoker,Vegetarian
+Female,48,Ayurveda,Urban,Yes,High,Moderate,Smoker,Vegetarian
+Male,48,Modern Medicine,Rural,Yes,High,High,Non-Smoker,Non-Vegetarian
+Male,48,Ayurveda,Urban,No,Moderate,Moderate,Smoker,Vegetarian
+Male,48,Ayurveda,Rural,No,Low,Moderate,Smoker,Non-Vegetarian
+Male,48,Modern Medicine,Rural,Yes,Moderate,Moderate,Smoker,Non-Vegetarian
+Male,48,Modern Medicine,Rural,Yes,Low,High,Non-Smoker,Non-Vegetarian
+Male,48,Ayurveda,Urban,Yes,High,Moderate,Smoker,Vegetarian
+Male,48,Ayurveda,Urban,Yes,Low,Low,Non-Smoker,Vegetarian
+Male,48,Ayurveda,Urban,Yes,High,Low,Smoker,Non-Vegetarian
+Female,48,Ayurveda,Rural,Yes,High,High,Smoker,Vegetarian
+Female,49,Ayurveda,Rural,Yes,High,Low,Non-Smoker,Vegetarian
+Female,49,Ayurveda,Urban,Yes,Moderate,High,Non-Smoker,Vegetarian
+Female,49,Modern Medicine,Urban,Yes,Low,Moderate,Non-Smoker,Vegetarian
+Female,49,Ayurveda,Urban,Yes,High,Low,Non-Smoker,Vegetarian
+Female,49,Ayurveda,Urban,No,Moderate,High,Non-Smoker,Non-Vegetarian
+Female,49,Ayurveda,Urban,Yes,Moderate,High,Smoker,Non-Vegetarian
+Male,49,Modern Medicine,Rural,Yes,Moderate,High,Smoker,Vegetarian
+Female,49,Ayurveda,Rural,Yes,Low,High,Non-Smoker,Vegetarian
+Male,49,Ayurveda,Rural,No,Low,Low,Non-Smoker,Vegetarian
+Female,49,Modern Medicine,Urban,Yes,Moderate,Low,Non-Smoker,Non-Vegetarian
+Female,49,Ayurveda,Rural,No,High,High,Non-Smoker,Non-Vegetarian
+Female,49,Modern Medicine,Rural,Yes,High,Low,Non-Smoker,Non-Vegetarian
+Female,49,Modern Medicine,Urban,Yes,Low,Low,Non-Smoker,Vegetarian
+Female,49,Modern Medicine,Rural,Yes,Moderate,Low,Smoker,Non-Vegetarian
+Female,49,Modern Medicine,Rural,No,High,High,Smoker,Non-Vegetarian
+Female,49,Ayurveda,Rural,Yes,Low,Low,Smoker,Vegetarian
+Male,49,Ayurveda,Rural,No,Low,Moderate,Non-Smoker,Non-Vegetarian
+Female,49,Modern Medicine,Urban,No,Low,Moderate,Non-Smoker,Non-Vegetarian
+Female,49,Modern Medicine,Rural,No,Moderate,Low,Smoker,Vegetarian
+Female,49,Ayurveda,Urban,Yes,High,High,Smoker,Vegetarian
+Male,49,Ayurveda,Urban,No,Low,Low,Non-Smoker,Vegetarian
+Male,49,Modern Medicine,Urban,No,Moderate,Low,Non-Smoker,Vegetarian
+Male,49,Modern Medicine,Rural,No,Low,Low,Smoker,Vegetarian
+Male,49,Ayurveda,Rural,Yes,High,Moderate,Smoker,Non-Vegetarian
+Female,49,Ayurveda,Rural,Yes,High,High,Non-Smoker,Non-Vegetarian
+Male,49,Ayurveda,Urban,Yes,High,High,Non-Smoker,Vegetarian
+Female,49,Ayurveda,Rural,Yes,Moderate,Moderate,Non-Smoker,Vegetarian
+Female,49,Modern Medicine,Rural,No,Moderate,Moderate,Smoker,Non-Vegetarian
+Male,49,Ayurveda,Rural,No,Low,Low,Smoker,Non-Vegetarian
+Female,49,Modern Medicine,Rural,Yes,Moderate,Moderate,Non-Smoker,Non-Vegetarian
+Female,49,Ayurveda,Urban,No,Moderate,Moderate,Smoker,Non-Vegetarian
+Female,49,Ayurveda,Urban,Yes,Low,Low,Non-Smoker,Non-Vegetarian
+Male,49,Ayurveda,Urban,Yes,Moderate,High,Non-Smoker,Non-Vegetarian
+Male,49,Ayurveda,Rural,No,Low,High,Non-Smoker,Non-Vegetarian
+Male,49,Ayurveda,Rural,No,Moderate,Low,Non-Smoker,Non-Vegetarian
+Female,49,Ayurveda,Urban,Yes,High,Moderate,Non-Smoker,Vegetarian
+Female,50,Modern Medicine,Urban,Yes,High,High,Non-Smoker,Non-Vegetarian
+Male,50,Ayurveda,Rural,No,Moderate,Moderate,Smoker,Non-Vegetarian
+Female,50,Ayurveda,Rural,No,High,Moderate,Non-Smoker,Vegetarian
+Female,50,Modern Medicine,Rural,No,High,High,Smoker,Non-Vegetarian
+Female,50,Ayurveda,Urban,No,High,Low,Smoker,Non-Vegetarian
+Female,50,Ayurveda,Urban,Yes,High,Moderate,Non-Smoker,Non-Vegetarian
+Female,50,Ayurveda,Urban,No,Low,Moderate,Smoker,Vegetarian
+Male,50,Ayurveda,Rural,No,High,Low,Non-Smoker,Non-Vegetarian
+Female,50,Ayurveda,Urban,No,Moderate,Moderate,Smoker,Non-Vegetarian
+Male,50,Ayurveda,Rural,Yes,Moderate,Low,Smoker,Vegetarian
+Male,50,Modern Medicine,Urban,Yes,Low,Moderate,Non-Smoker,Non-Vegetarian
+Male,50,Ayurveda,Urban,No,High,Moderate,Smoker,Vegetarian
+Female,50,Modern Medicine,Rural,No,Moderate,Low,Non-Smoker,Vegetarian
+Male,50,Ayurveda,Rural,No,Low,Low,Non-Smoker,Vegetarian
+Female,50,Modern Medicine,Urban,No,Moderate,Moderate,Non-Smoker,Non-Vegetarian
+Male,50,Modern Medicine,Urban,No,Low,Low,Smoker,Vegetarian
+Female,50,Modern Medicine,Urban,Yes,Moderate,High,Smoker,Non-Vegetarian
+Female,50,Ayurveda,Urban,Yes,Low,High,Non-Smoker,Vegetarian
+Male,50,Ayurveda,Rural,Yes,Moderate,Moderate,Non-Smoker,Vegetarian
+Male,50,Ayurveda,Urban,Yes,Low,Moderate,Smoker,Vegetarian
+Female,50,Modern Medicine,Urban,No,Moderate,Low,Smoker,Vegetarian
+Female,50,Modern Medicine,Rural,Yes,Low,Moderate,Smoker,Vegetarian
+Female,50,Modern Medicine,Rural,Yes,Low,High,Non-Smoker,Non-Vegetarian
+Female,50,Ayurveda,Urban,No,Moderate,Low,Non-Smoker,Vegetarian
+Female,50,Modern Medicine,Rural,Yes,High,Moderate,Smoker,Non-Vegetarian
+Female,50,Modern Medicine,Urban,Yes,Moderate,High,Non-Smoker,Vegetarian
+Male,50,Modern Medicine,Urban,No,Moderate,High,Non-Smoker,Non-Vegetarian
+Male,50,Ayurveda,Rural,Yes,High,Low,Smoker,Non-Vegetarian
+Male,50,Ayurveda,Rural,Yes,Moderate,High,Non-Smoker,Vegetarian
+Male,50,Modern Medicine,Urban,No,Low,Low,Non-Smoker,Non-Vegetarian
+Male,50,Ayurveda,Rural,Yes,High,High,Non-Smoker,Non-Vegetarian
+Male,50,Ayurveda,Urban,No,High,High,Non-Smoker,Vegetarian
+Male,50,Ayurveda,Urban,No,Low,Low,Smoker,Vegetarian
+Male,50,Ayurveda,Urban,Yes,High,Moderate,Smoker,Vegetarian
+Female,50,Ayurveda,Urban,No,High,Low,Smoker,Vegetarian
+Female,50,Modern Medicine,Rural,No,High,High,Smoker,Vegetarian
